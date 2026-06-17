@@ -1,0 +1,11 @@
+crewai>=0.28.0
+crewai-tools>=0.1.0
+langchain-community>=0.0.30
+python-dotenv>=1.0.1
+chromadb>=0.4.24
+langchain-openai>=0.1.0
+
+# Новые зависимости для RAG и Tools:
+sentence-transformers>=2.2.2
+torch>=2.0.0
+pypdf>=3.15.0

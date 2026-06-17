@@ -1,0 +1,16 @@
+# Секреты
+.env
+
+# Кэш Python и CrewAI
+__pycache__/
+*.pyc
+.pytest_cache/
+.crewai/
+
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+
+# Локальные базы данных (на будущее для ChromaDB)
+data/chroma_db/
