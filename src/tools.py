@@ -1,5 +1,9 @@
 from crewai.tools import BaseTool
 from pydantic import BaseModel, Field
+from pathlib import Path  
+import pdfplumber         
+
+# ... дальше идет ваш код классов MassBalanceInput и т.д.
 
 class MassBalanceInput(BaseModel):
     raw_materials: dict[str, float] = Field(
@@ -57,10 +61,77 @@ class ProcessCalculatorTool(BaseTool):
         return report
 
 
+class DocumentSearchInput(BaseModel):
+    query: str = Field(
+        description="Ключевое слово или фраза для поиска в документе (например, 'баланс', 'пропилен', 'этилбензол', 'риски'). Если нужно прочитать документ целиком, передайте '*'"
+    )
+    file_path: str = Field(
+        default="data/01_raw/TEO_project_example.pdf", 
+        description="Путь к конкретному PDF-файлу для анализа из папки data/01_raw/"
+    )
+
 class DocumentSearchTool(BaseTool):
-    name: str = "document_search"  # ✅ ДОБАВЛЕНО ИМЯ
-    description: str = "Выполняет поиск релевантной информации в загруженных документах"
-    
-    def _run(self, query: str) -> str:
-        # Временная заглушка
-        return f"🔍 Поиск по документам: '{query}'\n(Функция RAG будет добавлена позже)"
+    name: str = "document_search"
+    description: str = (
+        "Честный парсер проектной документации. Постранично извлекает текст и таблицы "
+        "из указанного PDF-файла, фильтруя данные по ключевому слову."
+    )
+    args_schema: type[BaseModel] = DocumentSearchInput
+
+    def _run(self, query: str, file_path: str) -> str:
+        path = Path(file_path)
+        
+        # Защита от системных файлов метаданных Windows
+        if ":Zone.Identifier" in str(path):
+            return "❌ Ошибка: Вы попытались прочитать файл метаданных Zone.Identifier. Используйте путь к самому PDF-файлу."
+            
+        if not path.exists():
+            return f"❌ Ошибка: Файл по пути {file_path} не найден. Проверьте имя файла в data/01_raw/"
+
+        extracted_data = []
+        
+        try:
+            with pdfplumber.open(path) as pdf:
+                for idx, page in enumerate(pdf.pages):
+                    page_num = idx + 1
+                    text = page.extract_text() or ""
+                    
+                    # Проверяем вхождение ключевого слова (регистронезависимо) или признак полного чтения
+                    if query == "*" or query.lower() in text.lower():
+                        page_output = f"=== СТРАНИЦА {page_num} ===\n"
+                        
+                        # Добавляем текстовый контент страницы
+                        if text:
+                            page_output += f"【 Текст страницы 】:\n{text}\n"
+                        
+                        # Извлекаем таблицы — критично для материальных балансов!
+                        tables = page.extract_tables()
+                        if tables:
+                            page_output += "\n【 Обнаруженные технологические таблицы 】:\n"
+                            for table in tables:
+                                for row in table:
+                                    # Очищаем ячейки от None, убираем лишние переносы строк внутри ячеек
+                                    clean_row = [
+                                        str(cell).replace('\n', ' ').strip() if cell is not None else "" 
+                                        for cell in row
+                                    ]
+                                    # Форматируем строку таблицы в псевдо-Markdown
+                                    page_output += f"| {' | '.join(clean_row)} |\n"
+                                page_output += "\n"
+                        
+                        extracted_data.append(page_output)
+            
+            if not extracted_data:
+                return f"🔍 По запросу '{query}' в документе {path.name} ничего не найдено. Попробуйте расширить запрос."
+            
+            # Собираем финальный контекст для агента
+            full_response = "\n".join(extracted_data)
+            
+            # Защитный лимит на объем токенов, чтобы не перегрузить контекстное окно модели
+            if len(full_response) > 15000:
+                return full_response[:15000] + "\n\n... [Данные обрезаны из-за лимита объема страницы] ..."
+                
+            return full_response
+
+        except Exception as e:
+            return f"❌ Ошибка при парсинге PDF-документа: {str(e)}"

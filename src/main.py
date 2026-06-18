@@ -12,12 +12,9 @@ def run_due_diligence_council(document_path: str):
     
     print(f"--- [OpenRouter] Менеджер распределяет задачи для: {document_path} ---")
     
-    # ✅ СОЗДАЕМ LLM ПРАВИЛЬНО через CrewAI
+    # 1. Инициализация LLM через OpenRouter (Бесплатная Llama 3.3 70B)
     llm = LLM(
-        model="openai/gpt-4o-mini",  # Работает с OpenRouter
-        # Альтернативы:
-        # model="google/gemini-2.0-flash-exp:free"
-        # model="microsoft/phi-3-mini-128k-instruct:free"
+        model="openrouter/openai/gpt-oss-120b:free", 
         base_url="https://openrouter.ai/api/v1",
         api_key=os.getenv("OPENROUTER_API_KEY"),
         temperature=0.2,
