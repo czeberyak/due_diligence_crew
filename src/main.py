@@ -67,34 +67,36 @@ def run_due_diligence_council(document_path: str):
 
 if __name__ == "__main__":
     print("=== Запуск Иерархического Консилиума на OpenRouter ===")
-    
     doc = "data/01_raw/TEO_project_example.pdf"
-    
+
     if not Path(doc).exists():
         print(f"❌ Файл не найден: {doc}")
         print("Создаю пустой файл для теста...")
         Path(doc).touch()
         print(f"✅ Создан: {doc}")
-    
+
     try:
-        final_report = run_due_diligence_council(doc)
+        # 1. Запускаем консилиум (получаем объект CrewOutput)
+        crew_output = run_due_diligence_council(doc)
+        
+        # 2. ✅ ИЗВЛЕКАЕМ ТЕКСТ ИЗ ОБЪЕКТА CrewOutput
+        final_report = crew_output.raw 
+        
         print("\n" + "="*60)
         print("🏆 ИТОГОВОЕ ЗАКЛЮЧЕНИЕ КОНСИЛИУМА:")
         print("="*60)
         print(final_report)
+
+        # 3. ✅ СОХРАНЕНИЕ ОТЧЕТА В MARKDOWN
+        output_dir = Path("data/02_processed")
+        output_dir.mkdir(parents=True, exist_ok=True)
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        report_path = output_dir / f"DD_Report_{timestamp}.md"
+
+        with open(report_path, "w", encoding="utf-8") as f:
+            f.write(final_report)
+            
+        print(f"\n✅ Отчет успешно сохранен: {report_path}")
+
     except Exception as e:
         print(f"\n❌ Ошибка выполнения: {e}")
-
-    # ... (ваш код запуска crew) ...
-    final_report = run_due_diligence_council(doc)
-
-    # Сохранение отчета
-    output_dir = Path("data/02_processed")
-    output_dir.mkdir(parents=True, exist_ok=True)
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    report_path = output_dir / f"DD_Report_{timestamp}.md"
-
-    with open(report_path, "w", encoding="utf-8") as f:
-        f.write(final_report)
-        
-    print(f"\n✅ Отчет успешно сохранен: {report_path}")
