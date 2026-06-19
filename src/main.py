@@ -4,6 +4,8 @@ from dotenv import load_dotenv
 from crewai import Crew, Process, LLM  # ✅ Импортируем LLM из CrewAI
 from agents import DueDiligenceCrewAgents
 from tasks import DueDiligenceCrewTasks
+from datetime import datetime
+
 
 load_dotenv()
 
@@ -82,3 +84,17 @@ if __name__ == "__main__":
         print(final_report)
     except Exception as e:
         print(f"\n❌ Ошибка выполнения: {e}")
+
+    # ... (ваш код запуска crew) ...
+    final_report = run_due_diligence_council(doc)
+
+    # Сохранение отчета
+    output_dir = Path("data/02_processed")
+    output_dir.mkdir(parents=True, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    report_path = output_dir / f"DD_Report_{timestamp}.md"
+
+    with open(report_path, "w", encoding="utf-8") as f:
+        f.write(final_report)
+        
+    print(f"\n✅ Отчет успешно сохранен: {report_path}")
