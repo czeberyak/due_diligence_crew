@@ -275,4 +275,4 @@ MIT
 ---
 
 **Подготовлено:** AI-консилиумом Due Diligence Crew 🤖  
-**Контакты:** [czeberyak](https://github.com/czeberyak)
+**Контакты:** [czeberyak](https://github.com/czeberyak) 
