@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/favicon-128x128.png" sizes="128x128">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/consultant.webmanifest">
+    <meta name="theme-color" content="#ffffff">
+    <title>"Градостроительный кодекс Российской Федерации" от 29.12.2004 N 190-ФЗ
+(ред. от 23.03.2026) \ КонсультантПлюс</title>
+    <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="6EbhfplFhM7K58F4TICC9IfwAHw76jcSsggWQfsIUqG3dowG73PFgYGrrgAkxsu14pFVN16HeVnDeV4JzTkZlw==">
+    <meta name="backend-number" content="1">
+<meta name="app-version" content="2026.1.0.69e98237">
+<meta name="description" content="Градостроительный кодекс Российской Федерации от 29.12.2004 N 190-ФЗ  - действующая редакция со всеми изменениями и дополнениями; обзор изменений; Градостроительный кодекс скачать бесплатно на сайте КонсультантПлюс.">
+<meta name="robots" content="noarchive">
+<link href="https://www.consultant.ru/document/cons_doc_LAW_51040/" rel="canonical">
+<link type="font/woff2" href="/static/client/dist/fonts/f2c2442761a05d538011f514f5be8c34.woff2" rel="preload" as="font" crossorigin>
+<!--[if lte IE9]>
+<link href="/static/client/dist/ie9-83d2d6e9fd245342f0c594317c4830fc.css" rel="stylesheet">
+<![endif]-->
+<link href="/static/document/dist/common-05d024470364dc73e6159466015d55ef.css" rel="stylesheet">
+<link href="/static/document/dist/document-26235491b381a23847372daa59effc61.css" rel="stylesheet">
+<!--[if lte IE9]>
+<script src="/static/client/dist/ie9-34db5c8e68677b88ba44200fafd1e512.js"></script>
+<![endif]-->
+<script>var frontAppState = {"consUser":{"hasCommercialSPS":false,"userType":null,"userId":null},"universalLink":"https:\/\/login.consultant.ru\/link\/","currentDocument":{"base":"LAW","num":529678,"firstMark":100001},"notes":[],"backReferencedInfoLabels":[],"externalNews":[{"type":"externalNews","url":"\/legalnews\/31774\/","title":"ЦБ РФ снова снизил ключевую ставку","publishedAt":"сегодня","isImportant":false,"thumb":"https:\/\/storage.consultant.ru\/ondb\/thumbs\/202606\/09\/ubNN-Kg-YrcnPsGQ1y6py6CbLhVe6TFt.jpeg"},{"type":"externalNews","url":"\/legalnews\/31848\/","title":"О каких изменениях законодательства нужно знать гражданам в III квартале 2026 года","publishedAt":"сегодня","isImportant":false,"thumb":"https:\/\/storage.consultant.ru\/ondb\/thumbs\/202606\/18\/WMDcjZBdZdlKIX2R15bdzpX4juZgxAgA.jpeg"},{"type":"externalNews","url":"\/legalnews\/31856\/","title":"Предварительное заседание, упрощенное производство и прочее: поправки к АПК РФ внесены в Госдуму","publishedAt":"сегодня","isImportant":true,"thumb":"https:\/\/storage.consultant.ru\/ondb\/thumbs\/202606\/19\/4KDfz886_mXvQgm3gJWRGeeZXgD8_7E8.jpeg"},{"type":"externalNews","url":"\/legalnews\/31836\/","title":"ФНС изменила состав сведений единого госреестра налогоплательщиков – приказ опубликован","publishedAt":"сегодня","isImportant":false,"thumb":"https:\/\/storage.consultant.ru\/ondb\/thumbs\/202606\/17\/PqW7bZfikiPt48Fo0GmvioduLVPHyJoc.jpeg"},{"type":"externalNews","url":"\/legalnews\/31847\/","title":"Интернет-торговля: в Госдуму внесен проект о сокращении сведений в рекламе","publishedAt":"18 июня","isImportant":false,"thumb":"https:\/\/storage.consultant.ru\/ondb\/thumbs\/202606\/18\/DcH0cE5DRNdu1sGGXUpzUzxHDgP3-PbD.jpeg"},{"type":"externalNews","url":"\/legalnews\/31839\/","title":"Ответственность маркетплейсов за продажу через них контрафакта: КС РФ дал разъяснения","publishedAt":"18 июня","isImportant":false,"thumb":"https:\/\/storage.consultant.ru\/ondb\/thumbs\/202606\/17\/T73f4m5WNvcTOfMLqQzgcnQDjayHqzOg.jpeg"}]};</script>    
+
+
+
+</head>
+<body>
+
+
+
+
+
+
+<div class="top-links page-fields ">
+    <div class="top-links__items width-container">
+        <a href="https://login.consultant.ru/" class="button button_login button_login-top top-links__item">Вход в систему</a>
+    </div>
+</div>
+<header class="header " id="header">
+    <div class="header__inner width-container page-fields">
+        <a class="logo logo_header header__logo" href="/"></a>        <div class="header__toggle"></div>
+                    <form  action="/search/" class="search header__search" role="search">
+    <input type="search" class="search__input" name="q" placeholder="Поиск: Кодексы, законы и другие материалы" value="" />
+    <span class="search__clear"></span>
+    <input type="submit" class="search__button font-bold" value="Найти" />
+</form>
+            </div>
+
+            <nav role="navigation" class="main-nav page-fields font-caption ">
+    <div class="main-nav__inner width-container">
+        <ul class="main-nav__items">
+            <li class="main-nav__item"><a href="//www.consultant.ru/online/" class="main-nav__link">Некоммерческие интернет-версии</a></li>
+            <li class="main-nav__item"><a href="//www.consultant.ru/about/" class="main-nav__link">О компании и продуктах</a></li>
+            <li class="main-nav__item"><a href="//www.consultant.ru/about/purchase/" class="main-nav__link nav-menu-buy-system">Купить КонсультантПлюс</a></li>
+            <li class="main-nav__item"><a href="https://login.consultant.ru/demo-access/" class="main-nav__link nav-menu-demo-access">Пробный доступ</a></li>
+            <li class="main-nav__item"><a href="/legalnews/" class="main-nav__link" target="_blank">Новости</a></li>
+            <li class="main-nav__item"><a href="//www.consultant.ru/wanted/" class="main-nav__link">Вакансии</a></li>
+        </ul>
+
+        <div class="main-nav__login">
+            <a href="https://login.consultant.ru/" class="button button_login button_login-nav">Вход в систему</a>
+        </div>
+    </div>
+</nav>
+    </header>
+
+    <div role="main" class="content document-page">
+        
+<section role="main"  class="document-page__main width-container page-fields">
+    <ul class="breadcrumbs font-caption document-page__breadcrumbs" id="breadcrumbs">
+    <li><a href="/">Главная</a></li><li><a href="/document/">Документы</a></li></ul>
+
+    <div class="external-block">
+        <div class="external-block__content">
+            <div class="document-page__balloon"><div class="balloon balloon_warning"><span class="balloon__text">Подготовлены <a href="#" data-document-link="{&quot;type&quot;:&quot;editions&quot;,&quot;base&quot;:&quot;LAW&quot;,&quot;num&quot;:529678,&quot;dst&quot;:&quot;100001&quot;}">редакции</a> документа с изменениями, не вступившими в силу</span></div><div class="dnk-button-dummy"></div></div>
+            
+            
+            <div class="document-page__title"><h1>"Градостроительный кодекс Российской Федерации" от 29.12.2004 N 190-ФЗ
+(ред. от 23.03.2026)</h1></div>
+            <div class="document-page__content document-page_left-padding">
+                <p class="no-indent"></p>
+<p class="no-indent"><a id="dst100001"></a>29 декабря 2004 года N 190-ФЗ<br /></p>
+<a id="dst100002"></a><hr /><p class="align_right no-indent"></p>
+<div class="document__style doc-style" data-style-id="1"><p class="align_center no-indent"><a id="dst100003"></a>ГРАДОСТРОИТЕЛЬНЫЙ КОДЕКС РОССИЙСКОЙ ФЕДЕРАЦИИ</p>
+</div><p></p>
+<p class="align_right no-indent"><a id="dst100004"></a>Принят</p>
+<p class="align_right no-indent">Государственной Думой</p>
+<p class="align_right no-indent">22 декабря 2004 года</p>
+<p class="align_right no-indent"></p>
+<p class="align_right no-indent"><a id="dst100005"></a>Одобрен</p>
+<p class="align_right no-indent">Советом Федерации</p>
+<p class="align_right no-indent">24 декабря 2004 года</p>
+<div class="document__insert doc-insert doc-insert_roll" data-insert-type="ВСТ"><div class="doc-roll document__roll" data-roll-type="НОР"><div class="doc-roll__title"><p class="align_center no-indent">Список изменяющих документов</p>
+</div><div class="doc-roll__content"><p class="align_center no-indent">(в ред. Федеральных законов от 22.07.2005 <a href="/document/cons_doc_LAW_168209/bdb2754392763f4c0afbdb3bc7ea77ef6a5287c4/#dst100100">N 117-ФЗ</a>, от 31.12.2005 <a href="/document/cons_doc_LAW_501483/838e785c160c9bbca7f82229748560c25d8029d9/#dst101121">N 199-ФЗ</a>,</p>
+<p class="align_center no-indent">от 31.12.2005 <a href="/document/cons_doc_LAW_287031/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 210-ФЗ</a>, от 03.06.2006 <a href="/document/cons_doc_LAW_465796/1d180977d026edde9616ec2b675f597f5573a08e/#dst100136">N 73-ФЗ</a>, от 27.07.2006 <a href="/document/cons_doc_LAW_61793/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 143-ФЗ</a>,</p>
+<p class="align_center no-indent">от 04.12.2006 <a href="/document/cons_doc_LAW_511319/e07f3a5e4b089705af512b1d4058f49e1857300d/#dst100044">N 201-ФЗ</a>, от 18.12.2006 <a href="/document/cons_doc_LAW_201712/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 232-ФЗ</a>, от 29.12.2006 <a href="/document/cons_doc_LAW_501487/9f7a3cf53239eca2edd88f48abffaae436a17f68/#dst100945">N 258-ФЗ</a>,</p>
+<p class="align_center no-indent">от 10.05.2007 <a href="/document/cons_doc_LAW_421026/6a73a7e61adc45fc3dd224c0e7194a1392c8b071/#dst100069">N 69-ФЗ</a>, от 24.07.2007 <a href="/document/cons_doc_LAW_200948/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 215-ФЗ</a>, от 30.10.2007 <a href="/document/cons_doc_LAW_454241/6a73a7e61adc45fc3dd224c0e7194a1392c8b071/#dst100310">N 240-ФЗ</a>,</p>
+<p class="align_center no-indent">от 08.11.2007 <a href="/document/cons_doc_LAW_534992/b2ae545a7455778090532aec331be04271b81540/#dst100570">N 257-ФЗ</a>, от 04.12.2007 <a href="/document/cons_doc_LAW_197506/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100145">N 324-ФЗ</a>, от 13.05.2008 <a href="/document/cons_doc_LAW_300839/c7f026b7764e8984216a49254aa592fda4abd50b/#dst100207">N 66-ФЗ</a>,</p>
+<p class="align_center no-indent">от 16.05.2008 <a href="/document/cons_doc_LAW_76973/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100033">N 75-ФЗ</a>, от 14.07.2008 <a href="/document/cons_doc_LAW_454135/2a8b22eb61cb32d23209f230b22eef16b8002e78/#dst100276">N 118-ФЗ</a>, от 22.07.2008 <a href="/document/cons_doc_LAW_527212/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 148-ФЗ</a>,</p>
+<p class="align_center no-indent">от 23.07.2008 <a href="/document/cons_doc_LAW_501486/147680bdbe444f888a8246019eaad1454c74024c/#dst100650">N 160-ФЗ</a>, от 25.12.2008 <a href="/document/cons_doc_LAW_501445/447cb52266ccd39fb054b7e8392441f3b165ffe7/#dst100330">N 281-ФЗ</a>, от 30.12.2008 <a href="/document/cons_doc_LAW_300837/abce0bf9e0b13a4c7bc6b1dd2bd2cd46096e6515/#dst100378">N 309-ФЗ</a>,</p>
+<p class="align_center no-indent">от 17.07.2009 <a href="/document/cons_doc_LAW_186979/46b4b351a6eb6bf3c553d41eb663011c2cb38810/#dst100335">N 164-ФЗ</a>, от 23.11.2009 <a href="/document/cons_doc_LAW_511702/9852c8414e3c7b47e109c80a089268c222ddad65/#dst100479">N 261-ФЗ</a>, от 27.12.2009 <a href="/document/cons_doc_LAW_220993/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100171">N 343-ФЗ</a>,</p>
+<p class="align_center no-indent">от 27.07.2010 <a href="/document/cons_doc_LAW_169838/46b4b351a6eb6bf3c553d41eb663011c2cb38810/#dst100073">N 226-ФЗ</a>, от 27.07.2010 <a href="/document/cons_doc_LAW_211081/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 240-ФЗ</a>, от 22.11.2010 <a href="/document/cons_doc_LAW_148503/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100083">N 305-ФЗ</a>,</p>
+<p class="align_center no-indent">от 29.11.2010 <a href="/document/cons_doc_LAW_107278/#dst100006">N 314-ФЗ</a>, от 20.03.2011 <a href="/document/cons_doc_LAW_220989/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 41-ФЗ</a>, от 21.04.2011 <a href="/document/cons_doc_LAW_441772/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100141">N 69-ФЗ</a>,</p>
+<p class="align_center no-indent">от 01.07.2011 <a href="/document/cons_doc_LAW_479091/696b7e140fb7b0ea70d02644d41aa7a80308916c/#dst100431">N 169-ФЗ</a>, от 11.07.2011 <a href="/document/cons_doc_LAW_404179/b1edd9cd49182ecd2e5d7e41bac4e8dcdfbc3e8a/#dst100304">N 190-ФЗ</a>, от 11.07.2011 <a href="/document/cons_doc_LAW_495098/455ce75da1c94eedf4e145cb281f4e02e9a28001/#dst100242">N 200-ФЗ</a>,</p>
+<p class="align_center no-indent">от 18.07.2011 <a href="/document/cons_doc_LAW_116956/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 215-ФЗ</a>, от 18.07.2011 <a href="/document/cons_doc_LAW_421037/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 224-ФЗ</a>, от 18.07.2011 <a href="/document/cons_doc_LAW_507385/4be2d49bc9fbe8d8c511a95b4421b2856044a0e7/#dst101498">N 242-ФЗ</a>,</p>
+<p class="align_center no-indent">от 18.07.2011 <a href="/document/cons_doc_LAW_116984/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 243-ФЗ</a>, от 19.07.2011 <a href="/document/cons_doc_LAW_471086/7f20d279eb4286c16cce67d1483c009ca3c7e650/#dst100298">N 246-ФЗ</a>, от 21.07.2011 <a href="/document/cons_doc_LAW_201718/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100048">N 257-ФЗ</a>,</p>
+<p class="align_center no-indent">от 28.11.2011 <a href="/document/cons_doc_LAW_173386/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 337-ФЗ</a>, от 30.11.2011 <a href="/document/cons_doc_LAW_421045/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100087">N 364-ФЗ</a>, от 06.12.2011 <a href="/document/cons_doc_LAW_391056/3eeafbd3bdb64673818bd5cba64081209bddc7a4/#dst100603">N 401-ФЗ</a>,</p>
+<p class="align_center no-indent">от 25.06.2012 <a href="/document/cons_doc_LAW_507383/9f7a3cf53239eca2edd88f48abffaae436a17f68/#dst100216">N 93-ФЗ</a>, от 20.07.2012 <a href="/document/cons_doc_LAW_132899/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 120-ФЗ</a>, от 28.07.2012 <a href="/document/cons_doc_LAW_464270/447cb52266ccd39fb054b7e8392441f3b165ffe7/#dst100250">N 133-ФЗ</a>,</p>
+<p class="align_center no-indent">от 12.11.2012 <a href="/document/cons_doc_LAW_137640/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100052">N 179-ФЗ</a>, от 30.12.2012 <a href="/document/cons_doc_LAW_183373/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 289-ФЗ</a>, от 30.12.2012 <a href="/document/cons_doc_LAW_221813/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100095">N 294-ФЗ</a>,</p>
+<p class="align_center no-indent">от 30.12.2012 <a href="/document/cons_doc_LAW_301779/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 318-ФЗ</a>, от 04.03.2013 <a href="/document/cons_doc_LAW_209753/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100021">N 21-ФЗ</a>, от 04.03.2013 <a href="/document/cons_doc_LAW_142907/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100241">N 22-ФЗ</a>,</p>
+<p class="align_center no-indent">от 05.04.2013 <a href="/document/cons_doc_LAW_511734/21022f3519eabeb3b3199fc3fee344680f372257/#dst100364">N 43-ФЗ</a>, от 07.06.2013 <a href="/document/cons_doc_LAW_201177/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100077">N 113-ФЗ</a>, от 02.07.2013 <a href="/document/cons_doc_LAW_518131/d6710eb4fdd6f1e46a6f6e9eb11e64afa71ebf22/#dst101642">N 185-ФЗ</a>,</p>
+<p class="align_center no-indent">от 02.07.2013 <a href="/document/cons_doc_LAW_148498/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100108">N 188-ФЗ</a>, от 23.07.2013 <a href="/document/cons_doc_LAW_201157/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100093">N 207-ФЗ</a>, от 23.07.2013 <a href="/document/cons_doc_LAW_201782/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100011">N 247-ФЗ</a>,</p>
+<p class="align_center no-indent">от 21.10.2013 <a href="/document/cons_doc_LAW_454133/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100127">N 282-ФЗ</a>, от 28.12.2013 <a href="/document/cons_doc_LAW_501403/447cb52266ccd39fb054b7e8392441f3b165ffe7/#dst100276">N 396-ФЗ</a>, от 28.12.2013 <a href="/document/cons_doc_LAW_156526/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100139">N 418-ФЗ</a>,</p>
+<p class="align_center no-indent">от 02.04.2014 <a href="/document/cons_doc_LAW_161221/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 65-ФЗ</a>, от 20.04.2014 <a href="/document/cons_doc_LAW_161940/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 80-ФЗ</a>, от 05.05.2014 <a href="/document/cons_doc_LAW_162571/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 131-ФЗ</a>,</p>
+<p class="align_center no-indent">от 23.06.2014 <a href="#" data-document-link="{&quot;type&quot;:&quot;editions&quot;,&quot;base&quot;:&quot;LAW&quot;,&quot;num&quot;:221394,&quot;dst&quot;:101117}">N 171-ФЗ</a>, от 28.06.2014 <a href="/document/cons_doc_LAW_173582/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100021">N 180-ФЗ</a>, от 28.06.2014 <a href="/document/cons_doc_LAW_405757/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100032">N 181-ФЗ</a>,</p>
+<p class="align_center no-indent">от 21.07.2014 <a href="/document/cons_doc_LAW_201617/3eeafbd3bdb64673818bd5cba64081209bddc7a4/#dst100304">N 217-ФЗ</a>, от 21.07.2014 <a href="/document/cons_doc_LAW_523210/bdb2754392763f4c0afbdb3bc7ea77ef6a5287c4/#dst100660">N 219-ФЗ</a> (ред. 25.12.2018),</p>
+<p class="align_center no-indent">от 21.07.2014 <a href="/document/cons_doc_LAW_296153/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 224-ФЗ</a>, от 14.10.2014 <a href="/document/cons_doc_LAW_446159/dcf6a9cdf6136b9a410d2f953eec0cf0887b7b6a/#dst100711">N 307-ФЗ</a>, от 22.10.2014 <a href="/document/cons_doc_LAW_420986/e07f3a5e4b089705af512b1d4058f49e1857300d/#dst100770">N 315-ФЗ</a>,</p>
+<p class="align_center no-indent">от 22.10.2014 <a href="/document/cons_doc_LAW_170100/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 320-ФЗ</a>, от 24.11.2014 <a href="/document/cons_doc_LAW_211092/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 359-ФЗ</a>, от 29.12.2014 <a href="/document/cons_doc_LAW_172862/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 456-ФЗ</a>,</p>
+<p class="align_center no-indent">от 29.12.2014 <a href="/document/cons_doc_LAW_420989/e625deadfee87da5d5eb6e1866ae6969140b685b/#dst100473">N 458-ФЗ</a>, от 29.12.2014 <a href="/document/cons_doc_LAW_172947/6a73a7e61adc45fc3dd224c0e7194a1392c8b071/#dst100036">N 485-ФЗ</a>, от 31.12.2014 <a href="/document/cons_doc_LAW_381495/4e7c454febb18a75f99a0e0a1256de288dbd7129/#dst100396">N 499-ФЗ</a>,</p>
+<p class="align_center no-indent">от 31.12.2014 <a href="/document/cons_doc_LAW_501404/e625deadfee87da5d5eb6e1866ae6969140b685b/#dst100068">N 519-ФЗ</a>, от 31.12.2014 <a href="/document/cons_doc_LAW_173194/#dst100008">N 533-ФЗ</a>, от 20.04.2015 <a href="/document/cons_doc_LAW_178312/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100024">N 102-ФЗ</a>,</p>
+<p class="align_center no-indent">от 29.06.2015 <a href="/document/cons_doc_LAW_405915/6a73a7e61adc45fc3dd224c0e7194a1392c8b071/#dst100369">N 176-ФЗ</a>, от 13.07.2015 <a href="/document/cons_doc_LAW_405751/3eeafbd3bdb64673818bd5cba64081209bddc7a4/#dst100119">N 213-ФЗ</a>, от 13.07.2015 <a href="/document/cons_doc_LAW_436354/e625deadfee87da5d5eb6e1866ae6969140b685b/#dst100115">N 216-ФЗ</a>,</p>
+<p class="align_center no-indent">от 13.07.2015 <a href="/document/cons_doc_LAW_512723/485833a68d9e13ed2c9bda65ec2ffd5b84a0a971/#dst100571">N 224-ФЗ</a>, от 13.07.2015 <a href="/document/cons_doc_LAW_494623/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100024">N 252-ФЗ</a>, от 13.07.2015 <a href="/document/cons_doc_LAW_182652/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100028">N 263-ФЗ</a>,</p>
+<p class="align_center no-indent">от 28.11.2015 <a href="/document/cons_doc_LAW_189514/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 339-ФЗ</a>, от 29.12.2015 <a href="/document/cons_doc_LAW_191306/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 402-ФЗ</a>, от 30.12.2015 <a href="/document/cons_doc_LAW_315362/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100051">N 459-ФЗ</a>,</p>
+<p class="align_center no-indent">от 23.06.2016 <a href="/document/cons_doc_LAW_200012/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 198-ФЗ</a>, от 03.07.2016 <a href="/document/cons_doc_LAW_491420/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100034">N 315-ФЗ</a>, от 03.07.2016 <a href="/document/cons_doc_LAW_508810/67a734729a346abd9190584551ccc79bc84a74c7/#dst100337">N 361-ФЗ</a>,</p>
+<p class="align_center no-indent">от 03.07.2016 <a href="/document/cons_doc_LAW_304233/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 368-ФЗ</a>, от 03.07.2016 <a href="/document/cons_doc_LAW_220992/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 369-ФЗ</a>, от 03.07.2016 <a href="/document/cons_doc_LAW_200735/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 370-ФЗ</a>,</p>
+<p class="align_center no-indent">от 03.07.2016 <a href="/document/cons_doc_LAW_200734/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 371-ФЗ</a>, от 03.07.2016 <a href="/document/cons_doc_LAW_210168/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 372-ФЗ</a>, от 03.07.2016 <a href="/document/cons_doc_LAW_330846/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 373-ФЗ</a>,</p>
+<p class="align_center no-indent">от 19.12.2016 <a href="/document/cons_doc_LAW_209002/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 445-ФЗ</a>, от 07.03.2017 <a href="/document/cons_doc_LAW_213698/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100012">N 31-ФЗ</a>, от 18.06.2017 <a href="/document/cons_doc_LAW_218171/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 126-ФЗ</a>,</p>
+<p class="align_center no-indent">от 01.07.2017 <a href="/document/cons_doc_LAW_511696/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100038">N 135-ФЗ</a>, от 26.07.2017 <a href="/document/cons_doc_LAW_327790/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 191-ФЗ</a>,</p>
+<p class="align_center no-indent">от 29.07.2017 <a href="/document/cons_doc_LAW_511785/51068c0f2717642c412888971a42ea5d643ee592/#dst100547">N 217-ФЗ</a> (ред. 03.08.2018), от 29.07.2017 <a href="/document/cons_doc_LAW_507516/501941d04a078b17b3ecc9d91e558b25cadd4e09/#dst100541">N 218-ФЗ</a>,</p>
+<p class="align_center no-indent">от 29.07.2017 <a href="/document/cons_doc_LAW_221178/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100028">N 222-ФЗ</a>, от 29.07.2017 <a href="/document/cons_doc_LAW_449598/46b4b351a6eb6bf3c553d41eb663011c2cb38810/#dst100092">N 280-ФЗ</a>, от 29.12.2017 <a href="/document/cons_doc_LAW_483117/0fcf7bd239958a22da47ec4d0be47474ba7aa2b5/#dst100174">N 442-ФЗ</a>,</p>
+<p class="align_center no-indent">от 29.12.2017 <a href="/document/cons_doc_LAW_483240/0c49c300b67760bb0684051ba44f4e005b14e16c/#dst100241">N 443-ФЗ</a>, от 29.12.2017 <a href="/document/cons_doc_LAW_501412/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 455-ФЗ</a>, от 29.12.2017 <a href="/document/cons_doc_LAW_501406/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100054">N 463-ФЗ</a>,</p>
+<p class="align_center no-indent">от 31.12.2017 <a href="/document/cons_doc_LAW_286767/6a73a7e61adc45fc3dd224c0e7194a1392c8b071/#dst100399">N 506-ФЗ</a>, от 31.12.2017 <a href="/document/cons_doc_LAW_453995/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 507-ФЗ</a>, от 23.04.2018 <a href="/document/cons_doc_LAW_296436/#dst100008">N 89-ФЗ</a>,</p>
+<p class="align_center no-indent">от 03.08.2018 <a href="/document/cons_doc_LAW_304050/46b4b351a6eb6bf3c553d41eb663011c2cb38810/#dst100039">N 312-ФЗ</a>, от 03.08.2018 <a href="/document/cons_doc_LAW_442420/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100074">N 321-ФЗ</a>, от 03.08.2018 <a href="/document/cons_doc_LAW_304062/#dst100008">N 330-ФЗ</a>,</p>
+<p class="align_center no-indent">от 03.08.2018 <a href="/document/cons_doc_LAW_421138/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 340-ФЗ</a>, от 03.08.2018 <a href="/document/cons_doc_LAW_511739/46b4b351a6eb6bf3c553d41eb663011c2cb38810/#dst100375">N 341-ФЗ</a>, от 03.08.2018 <a href="/document/cons_doc_LAW_523251/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 342-ФЗ</a>,</p>
+<p class="align_center no-indent">от 27.12.2018 <a href="/document/cons_doc_LAW_314661/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100072">N 522-ФЗ</a>, от 27.12.2018 <a href="/document/cons_doc_LAW_314666/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100235">N 538-ФЗ</a>, от 27.06.2019 <a href="/document/cons_doc_LAW_483349/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100324">N 151-ФЗ</a>,</p>
+<p class="align_center no-indent">от 26.07.2019 <a href="/document/cons_doc_LAW_471087/af9097ce9703ebb93a41afa7535e58c2b7c32aa6/#dst100228">N 195-ФЗ</a>, от 02.08.2019 <a href="/document/cons_doc_LAW_330704/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 283-ФЗ</a>, от 02.08.2019 <a href="/document/cons_doc_LAW_330701/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100015">N 294-ФЗ</a>,</p>
+<p class="align_center no-indent">от 16.12.2019 <a href="/document/cons_doc_LAW_340235/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100017">N 440-ФЗ</a>, от 27.12.2019 <a href="/document/cons_doc_LAW_341747/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 472-ФЗ</a>, от 24.04.2020 <a href="/document/cons_doc_LAW_479104/11914d877cee9b491e32f855edfde9c36625c38d/#dst100176">N 147-ФЗ</a>,</p>
+<p class="align_center no-indent">от 13.07.2020 <a href="/document/cons_doc_LAW_501421/b62da3aeb315547b6915beadea02920bd7dd4c41/#dst100058">N 194-ФЗ</a>, от 13.07.2020 <a href="/document/cons_doc_LAW_405935/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100225">N 202-ФЗ</a>, от 31.07.2020 <a href="/document/cons_doc_LAW_523267/e8a7b7bcdc67dea848ba7d2baac45fd1d82ae5f8/#dst100101">N 254-ФЗ</a>,</p>
+<p class="align_center no-indent">от 31.07.2020 <a href="/document/cons_doc_LAW_358779/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 264-ФЗ</a>, от 08.12.2020 <a href="/document/cons_doc_LAW_370087/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100012">N 416-ФЗ</a>, от 29.12.2020 <a href="/document/cons_doc_LAW_372627/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 468-ФЗ</a>,</p>
+<p class="align_center no-indent">от 30.12.2020 <a href="/document/cons_doc_LAW_372677/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 494-ФЗ</a>, от 30.12.2020 <a href="/document/cons_doc_LAW_372675/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100048">N 505-ФЗ</a>, от 30.04.2021 <a href="/document/cons_doc_LAW_421124/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100088">N 119-ФЗ</a>,</p>
+<p class="align_center no-indent">от 30.04.2021 <a href="/document/cons_doc_LAW_508828/b62da3aeb315547b6915beadea02920bd7dd4c41/#dst100620">N 120-ФЗ</a>, от 11.06.2021 <a href="/document/cons_doc_LAW_508482/3a10b4ee7261892008e4a5fa153ba60403bc99c5/#dst101798">N 170-ФЗ</a>, от 11.06.2021 <a href="/document/cons_doc_LAW_386890/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100029">N 191-ФЗ</a>,</p>
+<p class="align_center no-indent">от 01.07.2021 <a href="/document/cons_doc_LAW_422102/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 275-ФЗ</a>, от 01.07.2021 <a href="/document/cons_doc_LAW_388795/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 276-ФЗ</a>, от 02.07.2021 <a href="/document/cons_doc_LAW_388990/#dst100008">N 298-ФЗ</a>,</p>
+<p class="align_center no-indent">от 02.07.2021 <a href="/document/cons_doc_LAW_388987/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100083">N 301-ФЗ</a>, от 06.12.2021 <a href="/document/cons_doc_LAW_402552/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100018">N 408-ФЗ</a>, от 30.12.2021 <a href="/document/cons_doc_LAW_405344/46b4b351a6eb6bf3c553d41eb663011c2cb38810/#dst100248">N 436-ФЗ</a>,</p>
+<p class="align_center no-indent">от 30.12.2021 <a href="/document/cons_doc_LAW_405383/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 447-ФЗ</a>, от 30.12.2021 <a href="/document/cons_doc_LAW_489359/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100060">N 476-ФЗ</a>, от 01.05.2022 <a href="/document/cons_doc_LAW_465724/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 124-ФЗ</a>,</p>
+<p class="align_center no-indent">от 11.06.2022 <a href="/document/cons_doc_LAW_461107/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100276">N 174-ФЗ</a>, от 14.07.2022 <a href="/document/cons_doc_LAW_501429/e625deadfee87da5d5eb6e1866ae6969140b685b/#dst100320">N 271-ФЗ</a>, от 14.07.2022 <a href="/document/cons_doc_LAW_421900/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100200">N 312-ФЗ</a>,</p>
+<p class="align_center no-indent">от 14.07.2022 <a href="/document/cons_doc_LAW_421943/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 350-ФЗ</a>, от 04.11.2022 <a href="/document/cons_doc_LAW_430575/bdb2754392763f4c0afbdb3bc7ea77ef6a5287c4/#dst100049">N 427-ФЗ</a>, от 19.12.2022 <a href="/document/cons_doc_LAW_434583/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 541-ФЗ</a>,</p>
+<p class="align_center no-indent">от 19.12.2022 <a href="/document/cons_doc_LAW_434582/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 542-ФЗ</a>, от 29.12.2022 <a href="/document/cons_doc_LAW_499646/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 612-ФЗ</a>, от 28.04.2023 <a href="/document/cons_doc_LAW_446086/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100020">N 150-ФЗ</a>,</p>
+<p class="align_center no-indent">от 29.05.2023 <a href="/document/cons_doc_LAW_483048/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100077">N 191-ФЗ</a>, от 13.06.2023 <a href="/document/cons_doc_LAW_449446/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 240-ФЗ</a>, от 10.07.2023 <a href="/document/cons_doc_LAW_451660/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 305-ФЗ</a>,</p>
+<p class="align_center no-indent">от 04.08.2023 <a href="/document/cons_doc_LAW_453865/#dst100008">N 435-ФЗ</a>, от 04.08.2023 <a href="/document/cons_doc_LAW_465594/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 438-ФЗ</a>, от 04.08.2023 <a href="/document/cons_doc_LAW_453990/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100464">N 448-ФЗ</a>,</p>
+<p class="align_center no-indent">от 04.08.2023 <a href="/document/cons_doc_LAW_482706/b5315c892df7002ac987a311b4a242874fdcf420/#dst100230">N 469-ФЗ</a>, от 19.10.2023 <a href="/document/cons_doc_LAW_459973/67d473120e2e3f8c8a2be9505d11aa6ddbe0a5ff/#dst100090">N 503-ФЗ</a>, от 02.11.2023 <a href="/document/cons_doc_LAW_461022/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100019">N 509-ФЗ</a>,</p>
+<p class="align_center no-indent">от 12.12.2023 <a href="/document/cons_doc_LAW_464075/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100070">N 575-ФЗ</a>, от 19.12.2023 <a href="/document/cons_doc_LAW_464794/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100014">N 613-ФЗ</a>, от 25.12.2023 <a href="/document/cons_doc_LAW_483055/b5315c892df7002ac987a311b4a242874fdcf420/#dst100093">N 622-ФЗ</a>,</p>
+<p class="align_center no-indent">от 25.12.2023 <a href="/document/cons_doc_LAW_465416/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 627-ФЗ</a>, от 25.12.2023 <a href="/document/cons_doc_LAW_523265/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100091">N 653-ФЗ</a>, от 22.07.2024 <a href="/document/cons_doc_LAW_481243/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100039">N 187-ФЗ</a>,</p>
+<p class="align_center no-indent">от 08.08.2024 <a href="/document/cons_doc_LAW_501392/29b5cf945752b874f16bb17872304f7f827e5852/#dst100812">N 232-ФЗ</a>, от 08.08.2024 <a href="/document/cons_doc_LAW_482479/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100029">N 238-ФЗ</a>, от 08.08.2024 <a href="/document/cons_doc_LAW_482508/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 261-ФЗ</a>,</p>
+<p class="align_center no-indent">от 08.08.2024 <a href="/document/cons_doc_LAW_482543/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 280-ФЗ</a>, от 13.12.2024 <a href="/document/cons_doc_LAW_523275/b5315c892df7002ac987a311b4a242874fdcf420/#dst100088">N 475-ФЗ</a>, от 26.12.2024 <a href="/document/cons_doc_LAW_494422/46b4b351a6eb6bf3c553d41eb663011c2cb38810/#dst100064">N 485-ФЗ</a>,</p>
+<p class="align_center no-indent">от 26.12.2024 <a href="/document/cons_doc_LAW_494367/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 486-ФЗ</a>, от 26.12.2024 <a href="/document/cons_doc_LAW_494419/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100033">N 487-ФЗ</a>, от 26.12.2024 <a href="/document/cons_doc_LAW_494429/ad890e68b83c920baeae9bb9fdc9b94feb1af0ad/#dst100024">N 494-ФЗ</a>,</p>
+<p class="align_center no-indent">от 01.04.2025 <a href="/document/cons_doc_LAW_502191/30b3f8c55f65557c253227a65b908cc075ce114a/#dst100048">N 52-ФЗ</a>, от 24.06.2025 <a href="/document/cons_doc_LAW_508362/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 181-ФЗ</a>, от 31.07.2025 <a href="/document/cons_doc_LAW_511107/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100193">N 295-ФЗ</a>,</p>
+<p class="align_center no-indent">от 31.07.2025 <a href="/document/cons_doc_LAW_523521/d2a0876e32003daef9cf1e92de2cccf9e9fb009c/#dst100957">N 304-ФЗ</a>, от 31.07.2025 <a href="/document/cons_doc_LAW_523407/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 309-ФЗ</a> (ред. 28.12.2025),</p>
+<p class="align_center no-indent">от 31.07.2025 <a href="/document/cons_doc_LAW_511159/4e7c454febb18a75f99a0e0a1256de288dbd7129/#dst100175">N 353-ФЗ</a>, от 28.12.2025 <a href="/document/cons_doc_LAW_523025/3d0cac60971a511280cbba229d9b6329c07731f7/#dst100009">N 507-ФЗ</a>, от 29.12.2025 <a href="/document/cons_doc_LAW_523126/5bdc78bf7e3015a0ea0c0ea5bef708a6c79e2f0a/#dst100050">N 579-ФЗ</a>,</p>
+<p class="align_center no-indent">от 30.01.2026 <a href="/document/cons_doc_LAW_525456/b004fed0b70d0f223e4a81f8ad6cd92af90a7e3b/#dst100027">N 12-ФЗ</a>, от 23.03.2026 <a href="/document/cons_doc_LAW_529534/#dst100008">N 72-ФЗ</a>)</p>
+</div></div></div><div class="document__insert doc-insert" data-insert-type="ПОМ"><p class="align_center no-indent">(см. <a href="/document/cons_doc_LAW_327616/aef3f4582fa2ff00144407e328eedd848c13580d/#dst100181">Обзор</a> изменений данного документа)</p>
+</div><p class="no-indent"></p>
+            </div>
+
+                            <div class="document-page__toc">
+                    <ul><li><a href="/document/cons_doc_LAW_51040/01fbae25b3040955277cbd70aa1b907cceda878e/">Глава 1. Общие положения</a></li><ul><li><a href="/document/cons_doc_LAW_51040/cdec16ec747f11f3a7a39c7303d03373e0ef91c4/">Статья 1. Основные понятия, используемые в настоящем Кодексе</a></li><li><a href="/document/cons_doc_LAW_51040/13379792896b38e59ec4b5832f1b7ce8338a1d00/">Статья 2. Основные принципы законодательства о градостроительной деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/948a459e69a32a13c1326a6dbd42e5d554e890ca/">Статья 3. Законодательство о градостроительной деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/89979f7faa05f196cf258aaebeb14c24e1ebca03/">Статья 4. Отношения, регулируемые законодательством о градостроительной деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/11451e49a4e7d6c1352a1c756914d49d5d89d26c/">Статья 5. Субъекты градостроительных отношений</a></li><li><a href="/document/cons_doc_LAW_51040/fc77c7117187684ab0cb02c7ee53952df0de55be/">Статья 5.1. Общественные обсуждения, публичные слушания по проектам генеральных планов, проектам правил землепользования и застройки, проектам планировки территории, проектам межевания территории, проектам правил благоустройства территорий, проектам решений о предоставлении разрешения на условно разрешенный вид использования земельного участка или объекта капитального строительства, проектам решений о предоставлении разрешения на отклонение от предельных параметров разрешенного строительства, реконструкции объектов капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/51843d8aa672b4bab2a19ffcb42b733b1af0b96d/">Статья 5.2. Перечень мероприятий, осуществляемых при реализации проектов по строительству объектов капитального строительства</a></li></ul><li><a href="/document/cons_doc_LAW_51040/cb65d44ad44b16d5a091abc81899d6d2ef06e6d8/">Глава 2. Полномочия органов государственной власти Российской Федерации, органов государственной власти субъектов Российской Федерации, органов местного самоуправления в области градостроительной деятельности</a></li><ul><li><a href="/document/cons_doc_LAW_51040/5f4dfdafc2f6f8be79b768e70ef7fcf3afc02631/">Статья 6. Полномочия органов государственной власти Российской Федерации в области градостроительной деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/ed9031890f76cdb1b8b3065883eea208b5088194/">Статья 6.1. Передача осуществления полномочий Российской Федерации в области градостроительной деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/66998d4a247aa59754b7bbfac7d8a1386c502e29/">Статья 7. Полномочия органов государственной власти субъектов Российской Федерации в области градостроительной деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/dec48f9d22a38b1fe436e3a606492ae123d0c258/">Статья 8. Полномочия органов местного самоуправления в области градостроительной деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/a45a21cde6acf8c10a040da3b085f6fe6f3e4b67/">Статья 8.1. Контроль за соблюдением органами государственной власти субъектов Российской Федерации, органами местного самоуправления законодательства о градостроительной деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/f2de7acf10fa218e275df765b160162093f5f1db/">Статья 8.2. Перераспределение полномочий между органами местного самоуправления и органами государственной власти субъекта Российской Федерации</a></li></ul><li><a href="/document/cons_doc_LAW_51040/2ddd4d251eeb3c6314fe2428e7816f6ae59a3348/">Глава 2.1. Ценообразование и сметное нормирование в области градостроительной деятельности, федеральный реестр сметных нормативов</a></li><ul><li><a href="/document/cons_doc_LAW_51040/97b53e5e83b761f9df5902551a4114f85618df27/">Статья 8.3. Ценообразование и сметное нормирование в области градостроительной деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/7b8f2b73414de6437157d271e3c5818125b37f14/">Статья 8.4. Федеральный реестр сметных нормативов</a></li></ul><li><a href="/document/cons_doc_LAW_51040/f921e5aa5c2104126feadb368b498761ca9960f0/">Глава 3. Территориальное планирование</a></li><ul><li><a href="/document/cons_doc_LAW_51040/d8120ea09ee48323fcc56ffdafd1f2c62901657f/">Статья 9. Общие положения о документах территориального планирования</a></li><li><a href="/document/cons_doc_LAW_51040/7e225e104a252dcae179960a6e56b8aa4c17bdf4/">Статья 10. Содержание документов территориального планирования Российской Федерации</a></li><li><a href="/document/cons_doc_LAW_51040/6d5b66bf48e272075981a2c7dac0a1c7aa3cdb54/">Статья 11. Подготовка и утверждение схем территориального планирования Российской Федерации</a></li><li><a href="/document/cons_doc_LAW_51040/3048b00f96cca4bd7eea68bd98fd54f4b0f9651b/">Статья 12. Порядок согласования проекта схемы территориального планирования Российской Федерации</a></li><li><a href="/document/cons_doc_LAW_51040/6c6fd6c22f22c92274efc5675664d8255d5c5785/">Статья 13. Утратила силу</a></li><li><a href="/document/cons_doc_LAW_51040/180c1f4a90156a03175cf0ce3d1eafe794393210/">Статья 13.1. Содержание документа территориального планирования двух и более субъектов Российской Федерации</a></li><li><a href="/document/cons_doc_LAW_51040/75d0961ab5a8d4933d15f92ad21cb5405d0f9a01/">Статья 13.2. Подготовка проекта и утверждение схемы территориального планирования двух и более субъектов Российской Федерации</a></li><li><a href="/document/cons_doc_LAW_51040/fc68154d0457446d0a1e7d3fcf938f717ebb4397/">Статья 14. Содержание документов территориального планирования субъекта Российской Федерации</a></li><li><a href="/document/cons_doc_LAW_51040/921d568ff3f25e703ad66ac2dd0cbea026547cf6/">Статья 15. Подготовка и утверждение схемы территориального планирования субъекта Российской Федерации</a></li><li><a href="/document/cons_doc_LAW_51040/1d76a16800e1d6d9405f2500d5cc7e335fe80ec4/">Статья 16. Порядок согласования проекта схемы территориального планирования двух и более субъектов Российской Федерации, проекта схемы территориального планирования субъекта Российской Федерации</a></li><li><a href="/document/cons_doc_LAW_51040/4900436b278248e6144046170bc0900906f821bf/">Статья 17. Утратила силу</a></li><li><a href="/document/cons_doc_LAW_51040/7c8c059348e924abae02207c9bb5afc513f2b59f/">Статья 18. Документы территориального планирования муниципальных образований</a></li><li><a href="/document/cons_doc_LAW_51040/45926bdcd26b5d759ce39a6705a6e1f98c749010/">Статья 19. Содержание схемы территориального планирования муниципального района</a></li><li><a href="/document/cons_doc_LAW_51040/68f0ce1264258bb3e2eec3c53314aa98c84eb71d/">Статья 20. Подготовка и утверждение схемы территориального планирования муниципального района</a></li><li><a href="/document/cons_doc_LAW_51040/9fa18324fe87aaf9c3f930984c698f89ad4735dc/">Статья 21. Особенности согласования проекта схемы территориального планирования муниципального района</a></li><li><a href="/document/cons_doc_LAW_51040/da1cc357f2d78ccf817fcd528ebe74bc263d7eef/">Статья 22. Утратила силу</a></li><li><a href="/document/cons_doc_LAW_51040/78edf716452260db8efd954b5f872e3c04b6549a/">Статья 23. Содержание генерального плана поселения, генерального плана муниципального округа, генерального плана городского округа</a></li><li><a href="/document/cons_doc_LAW_51040/cd8b3e3b3409ed7a8f3d4f891b67c4d302c1b6b5/">Статья 24. Подготовка и утверждение генерального плана поселения, генерального плана муниципального округа, генерального плана городского округа</a></li><li><a href="/document/cons_doc_LAW_51040/88415ae8d174543366931cd845a43dce3af69308/">Статья 25. Особенности согласования проекта генерального плана поселения, проекта генерального плана муниципального округа, проекта генерального плана городского округа</a></li><li><a href="/document/cons_doc_LAW_51040/714ce5ffa353a3c697cbf157511a3812abfae339/">Статья 26. Реализация документов территориального планирования</a></li><li><a href="/document/cons_doc_LAW_51040/fec28e39791445dc4430477cf72a1f809594e5f8/">Статья 27. Совместная подготовка проектов документов территориального планирования федеральными органами исполнительной власти, исполнительными органами субъектов Российской Федерации, органами местного самоуправления</a></li><li><a href="/document/cons_doc_LAW_51040/40be0591480e0c82ab63b09e45359cbe40abc562/">Статья 28. Особенности организации и проведения общественных обсуждений, публичных слушаний по проектам генеральных планов поселений, генеральных планов муниципальных округов, генеральных планов городских округов</a></li><li><a href="/document/cons_doc_LAW_51040/382272c165ef852a1f38b5df8e04049e36c7b6de/">Статья 28.1. Единый документ территориального планирования и градостроительного зонирования поселения, муниципального округа, городского округа</a></li><li><a href="/document/cons_doc_LAW_51040/b0239f820362ccf13c8b073b03ef46a933643f94/">Статья 29. Утратила силу</a></li></ul><li><a href="/document/cons_doc_LAW_51040/28f6eb9cefcb7cd0f594d1907f4589201e2647ad/">Глава 3.1. Нормативы градостроительного проектирования</a></li><ul><li><a href="/document/cons_doc_LAW_51040/f17f96d92706e460eaf092a620fcf891694031e2/">Статья 29.1. Нормативы градостроительного проектирования</a></li><li><a href="/document/cons_doc_LAW_51040/f32ece28ab6a044a2d115401b18a7876eaa82908/">Статья 29.2. Содержание нормативов градостроительного проектирования</a></li><li><a href="/document/cons_doc_LAW_51040/c06888a8804576aa38f54c7f67e3bea98666bb84/">Статья 29.3. Подготовка и утверждение региональных нормативов градостроительного проектирования</a></li><li><a href="/document/cons_doc_LAW_51040/da28e390b2d38d4912992513a0ce802907b0c690/">Статья 29.4. Подготовка и утверждение местных нормативов градостроительного проектирования</a></li></ul><li><a href="/document/cons_doc_LAW_51040/1b4d60e3b4730a162885611b6729d1b50355ac20/">Глава 4. Градостроительное зонирование</a></li><ul><li><a href="/document/cons_doc_LAW_51040/7b81874f50ed9cd03230f753e5c5a4b03ef9092d/">Статья 30. Правила землепользования и застройки</a></li><li><a href="/document/cons_doc_LAW_51040/36fb3e57a8031adb90c7b7d13d835d1f31efff63/">Статья 31. Порядок подготовки проекта правил землепользования и застройки</a></li><li><a href="/document/cons_doc_LAW_51040/f3ce931f8523b327060f9e62f0ffa5990a28639c/">Статья 32. Порядок утверждения правил землепользования и застройки</a></li><li><a href="/document/cons_doc_LAW_51040/c1c2bfc679fb74ed4c4da6be176c8d5a7da42c49/">Статья 33. Порядок внесения изменений в правила землепользования и застройки</a></li><li><a href="/document/cons_doc_LAW_51040/48902fe469940544fe9de6acc4257508c2f6e87e/">Статья 34. Порядок установления территориальных зон</a></li><li><a href="/document/cons_doc_LAW_51040/80dce8588aec56c31d6512f018b0d8f5decb92d2/">Статья 35. Виды и состав территориальных зон</a></li><li><a href="/document/cons_doc_LAW_51040/94050c1b72b36222ea765a98f890b52187a0838c/">Статья 36. Градостроительный регламент</a></li><li><a href="/document/cons_doc_LAW_51040/39dc72c976ad75cbd1bbdc145ebfc7388c21062e/">Статья 37. Виды разрешенного использования земельных участков и объектов капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/312302f37ac9299771d2bf4f9b4bb797fb476948/">Статья 38. Предельные (минимальные и (или) максимальные) размеры земельных участков и предельные параметры разрешенного строительства, реконструкции объектов капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/d43ae8ece00bbaa3bc825d04067c64adebeae28c/">Статья 39. Порядок предоставления разрешения на условно разрешенный вид использования земельного участка или объекта капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/91122874bbcf628c0e5c6bceb7fe613ee682fc73/">Статья 40. Отклонение от предельных параметров разрешенного строительства, реконструкции объектов капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/70ac306826bc92daa560ad83d22d3b26c2834b8b/">Статья 40.1. Архитектурно-градостроительный облик объекта капитального строительства</a></li></ul><li><a href="/document/cons_doc_LAW_51040/ec61c64f0d3253360b358e7c88d2a5216938fbf6/">Глава 5. Планировка территории</a></li><ul><li><a href="/document/cons_doc_LAW_51040/2a679030b1fbedead6215f4726b6f38c0f46b807/">Статья 41. Назначение, виды документации по планировке территории</a></li><li><a href="/document/cons_doc_LAW_51040/ddefb7b01cd050579f9725dab52c0a718ccaa417/">Статья 41.1. Общие требования к документации по планировке территории</a></li><li><a href="/document/cons_doc_LAW_51040/5032f657597e9e8fdb7b66e5fd94040ec4c04171/">Статья 41.2. Инженерные изыскания для подготовки документации по планировке территории</a></li><li><a href="/document/cons_doc_LAW_51040/eac7ac77d3078a3dfa4a2a9884f0e67d67da2eb2/">Статья 42. Проект планировки территории</a></li><li><a href="/document/cons_doc_LAW_51040/f111b9e03a38b2b3937951a4e8401a29754eeb8d/">Статья 43. Проект межевания территории</a></li><li><a href="/document/cons_doc_LAW_51040/ba867342f7119ea8a5d87376efdcd52cfda7e56f/">Статья 44. Утратила силу</a></li><li><a href="/document/cons_doc_LAW_51040/dbb758e5e96870aa276968887828c5d903eeba8a/">Статья 45. Подготовка и утверждение документации по планировке территории, порядок внесения в нее изменений и ее отмены</a></li><li><a href="/document/cons_doc_LAW_51040/b5f7b5f520a7d2c4beeb57cb0aedc62193d8a957/">Статья 46. Особенности подготовки документации по планировке территории применительно к территории поселения, территории муниципального округа, территории городского округа</a></li></ul><li><a href="/document/cons_doc_LAW_51040/978634d250ac925b4e34ed02104f464d1079f744/">Глава 5.1. Виды деятельности по комплексному и устойчивому развитию территории и порядок их осуществления (статья 46.1, статья 46.2, статья 46.3, статья 46.4, статья 46.5, статья 46.6, статья 46.7, статья 46.8, статья 46.9, статья 46.10, статья 46.11). - Утратила силу</a></li><li><a href="/document/cons_doc_LAW_51040/a64902fb612d76aff26a27bc1b3acbeb9c3e7be7/">Глава 6. Архитектурно-строительное проектирование, строительство, реконструкция объектов капитального строительства</a></li><ul><li><a href="/document/cons_doc_LAW_51040/f651879e0acd4680a6fdc29f983536624055cbcc/">Статья 47. Инженерные изыскания для подготовки проектной документации, строительства, реконструкции объектов капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/b884020ea7453099ba8bc9ca021b84982cadea7d/">Статья 48. Архитектурно-строительное проектирование</a></li><li><a href="/document/cons_doc_LAW_51040/020268898fa86a2e82a7b360986eb212b02482cf/">Статья 48.1. Особо опасные, технически сложные и уникальные объекты</a></li><li><a href="/document/cons_doc_LAW_51040/abe37516694863321cbacbb22c2a5aba54006a4e/">Статья 48.2. Типовая проектная документация</a></li><li><a href="/document/cons_doc_LAW_51040/4ca003dd6b793db91e6027babe790a482edd9b7e/">Статья 49. Экспертиза проектной документации и результатов инженерных изысканий, государственная экологическая экспертиза проектной документации объектов, строительство, реконструкцию которых предполагается осуществлять в исключительной экономической зоне Российской Федерации, на континентальном шельфе Российской Федерации, во внутренних морских водах, в территориальном море Российской Федерации, в границах особо охраняемых природных территорий, в границах Байкальской природной территории и в Арктической зоне Российской Федерации, в границах округов санитарной (горно-санитарной) охраны природных лечебных ресурсов</a></li><li><a href="/document/cons_doc_LAW_51040/4f097d83effef07b0360777623a625339249c8d3/">Статья 49.1. Аттестация физических лиц на право подготовки заключений экспертизы проектной документации и (или) экспертизы результатов инженерных изысканий</a></li><li><a href="/document/cons_doc_LAW_51040/e203a0f53f59782cc9b335959930bd3be62c104a/">Статья 50. Аккредитация юридических лиц на право проведения негосударственной экспертизы проектной документации и (или) негосударственной экспертизы результатов инженерных изысканий</a></li><li><a href="/document/cons_doc_LAW_51040/7f28bcc950e1e0c3ce9b32da91a3a16673a600a2/">Статья 50.1. Единый государственный реестр заключений экспертизы проектной документации объектов капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/570afc6feff03328459242886307d6aebe1ccb6b/">Статья 51. Разрешение на строительство</a></li><li><a href="/document/cons_doc_LAW_51040/fe0cad704c69e3b97bf615f0437ecf1996a57677/">Статья 51.1. Уведомление о планируемых строительстве или реконструкции объекта индивидуального жилищного строительства или садового дома</a></li><li><a href="/document/cons_doc_LAW_51040/df32b8231cf067c4d4e864c717eb6b398358b504/">Статья 52. Осуществление строительства, реконструкции, капитального ремонта объекта капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/38b3f131482e11c9beba5511be5d68625d177d69/">Статья 52.1. Подключение (технологическое присоединение) объектов капитального строительства к сетям инженерно-технического обеспечения</a></li><li><a href="/document/cons_doc_LAW_51040/719cc91359dda1026e59c646add08fc58661ce61/">Статья 52.2. Реконструкции, капитальный ремонт существующих линейных объектов в связи с планируемым строительством, реконструкцией или капитальным ремонтом объектов капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/5cbb8e792a7a0d3653cf7ccce0de76f92e1d08d8/">Статья 53. Строительный контроль</a></li><li><a href="/document/cons_doc_LAW_51040/d6aa4f5374347120919d6d0ca106e089be185a9b/">Статья 54. Государственный строительный надзор</a></li><li><a href="/document/cons_doc_LAW_51040/935a657a2b5f7c7a6436cb756694bb2d649c7a00/">Статья 55. Выдача разрешения на ввод объекта в эксплуатацию</a></li></ul><li><a href="/document/cons_doc_LAW_51040/1ba684c6036f185ee15c35de3a1889bf5e31567f/">Глава 6.1. Саморегулирование в области инженерных изысканий, архитектурно-строительного проектирования, строительства, реконструкции, капитального ремонта, сноса объектов капитального строительства</a></li><ul><li><a href="/document/cons_doc_LAW_51040/3e62b7c1033fcd99a9b19dd5d64526f58e4ca767/">Статья 55.1. Основные цели саморегулируемых организаций в области инженерных изысканий, архитектурно-строительного проектирования, строительства, реконструкции, капитального ремонта, сноса объектов капитального строительства и содержание их деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/3f1e8eef35ebad979cf83a73c27e9a839c5eff5f/">Статья 55.2. Приобретение статуса саморегулируемой организации</a></li><li><a href="/document/cons_doc_LAW_51040/537a8ad99063ced44468aaf93fd6f5db16218274/">Статья 55.3. Виды саморегулируемых организаций</a></li><li><a href="/document/cons_doc_LAW_51040/e0269fbe94125057ca752b5512f5f1dd3cc4b7e9/">Статья 55.4. Требования к некоммерческой организации, необходимые для приобретения статуса саморегулируемой организации</a></li><li><a href="/document/cons_doc_LAW_51040/47d41ba2a9c225c5ba23f9a241f1a6da7fd47a68/">Статья 55.5. Стандарты и внутренние документы саморегулируемой организации</a></li><li><a href="/document/cons_doc_LAW_51040/6da623a7da211d885c1eaccefb2ef34b26fc141a/">Статья 55.5-1. Специалисты по организации инженерных изысканий, специалисты по организации архитектурно-строительного проектирования, специалисты по организации строительства и иные специалисты, занятые в строительстве</a></li><li><a href="/document/cons_doc_LAW_51040/c687568453216035dfc5522b6c033847664135fe/">Статья 55.6. Прием в члены саморегулируемой организации</a></li><li><a href="/document/cons_doc_LAW_51040/d422bfbad4d5f0dfce2a546c7cebbb593152428c/">Статья 55.7. Прекращение членства в саморегулируемой организации</a></li><li><a href="/document/cons_doc_LAW_51040/a856e9636e5a3eca479377557ee86fb41304dafb/">Статья 55.8. Право члена саморегулируемой организации выполнять инженерные изыскания, осуществлять подготовку проектной документации, строительство, реконструкцию, капитальный ремонт, снос объектов капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/dad3ba86118b2be36cc513d8b632a4cd91409893/">Статья 55.9. Обеспечение саморегулируемой организацией доступа к информации о своей деятельности и деятельности своих членов</a></li><li><a href="/document/cons_doc_LAW_51040/8d61f311906afd964cf2de217add4f5959ffa59e/">Статья 55.10. Исключительная компетенция общего собрания членов саморегулируемой организации</a></li><li><a href="/document/cons_doc_LAW_51040/48f27fe6133a7dbcad61fb2453d5bc8c7d33a668/">Статья 55.11, статья 55.12. Утратили силу</a></li><li><a href="/document/cons_doc_LAW_51040/adcd644f8dddbcf7a9bdf494d6f479a95e2ba411/">Статья 55.13. Контроль саморегулируемой организации за деятельностью своих членов</a></li><li><a href="/document/cons_doc_LAW_51040/2c94716ffbdd326f430ba03f96b60ac0ead272ea/">Статья 55.14. Рассмотрение саморегулируемой организацией жалоб на действия своих членов и обращений</a></li><li><a href="/document/cons_doc_LAW_51040/6b41efbf4906370474e75b204ec1644c63f0e96b/">Статья 55.15. Применение саморегулируемой организацией мер дисциплинарного воздействия в отношении членов саморегулируемой организации</a></li><li><a href="/document/cons_doc_LAW_51040/ce86e444fcaa7ba00e66f594fd2fa61f8f35bfe2/">Статья 55.16. Компенсационные фонды саморегулируемой организации</a></li><li><a href="/document/cons_doc_LAW_51040/89e2a4728ab873bcf2aeacb12da35acf47ce3819/">Статья 55.16-1. Размещение средств компенсационного фонда возмещения вреда и компенсационного фонда обеспечения договорных обязательств саморегулируемой организации в кредитных организациях</a></li><li><a href="/document/cons_doc_LAW_51040/c8475d7ebb1bb0da9f9f2c99853fab115732a605/">Статья 55.17. Единый реестр сведений о членах саморегулируемых организаций и их обязательствах</a></li><li><a href="/document/cons_doc_LAW_51040/d08d043e89bff3a5c26a27c4d6167e0a18b25949/">Статья 55.18. Ведение государственного реестра саморегулируемых организаций</a></li><li><a href="/document/cons_doc_LAW_51040/30670ff9256ee84eea86b8c26dfe0479eb51819e/">Статья 55.19. Федеральный государственный надзор за деятельностью саморегулируемых организаций</a></li><li><a href="/document/cons_doc_LAW_51040/73511363efd4cb8c71e4e9136a869f53a8f0b99f/">Статья 55.20. Национальные объединения саморегулируемых организаций</a></li><li><a href="/document/cons_doc_LAW_51040/d384d5e92f883e89b2b372580ec1305e7a17a93e/">Статья 55.20-1. Правила саморегулирования</a></li><li><a href="/document/cons_doc_LAW_51040/2987f520dd3bec11e857e0dca24dcc8e60467c69/">Статья 55.21. Всероссийский съезд саморегулируемых организаций</a></li><li><a href="/document/cons_doc_LAW_51040/a4f24c9ca8d7e932bf56883ea932cabcfac635c4/">Статья 55.21-1. Полномочия президента Национального объединения саморегулируемых организаций</a></li><li><a href="/document/cons_doc_LAW_51040/2b249e3ed752d488e074bed5e1da045a100d1954/">Статья 55.22. Совет Национального объединения саморегулируемых организаций</a></li><li><a href="/document/cons_doc_LAW_51040/b431110fb4c2459d89f32e9449131c2c0c9abee0/">Статья 55.22-1. Оценка Национальным объединением саморегулируемых организаций соблюдения саморегулируемыми организациями требований к саморегулируемой организации и ее деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/abdb6d9be76b6d71a4a2d798c8bf74f1655dbd91/">Статья 55.23. Федеральный государственный контроль за деятельностью национальных объединений саморегулируемых организаций</a></li></ul><li><a href="/document/cons_doc_LAW_51040/6453c3dae3741d162e9b62b1a6a79324e091ae0c/">Глава 6.2. Эксплуатация зданий, сооружений</a></li><ul><li><a href="/document/cons_doc_LAW_51040/8531126e5f632762e7d7a88d4f684fc1a153faef/">Статья 55.24. Требования законодательства Российской Федерации к эксплуатации зданий, сооружений</a></li><li><a href="/document/cons_doc_LAW_51040/09d885c2d0bfcefa0cee8e8b745e196985be8b4c/">Статья 55.25. Обязанности лица, ответственного за эксплуатацию здания, сооружения</a></li><li><a href="/document/cons_doc_LAW_51040/f103fd6aa6ea841848f04d669b411303aeed4222/">Статья 55.26. Приостановление и прекращение эксплуатации зданий, сооружений</a></li><li><a href="/document/cons_doc_LAW_51040/a0f23265c2a708e0305d26869a23f1335be8c16a/">Статья 55.26-1. Признание объекта капитального строительства аварийным и подлежащим сносу или реконструкции</a></li></ul><li><a href="/document/cons_doc_LAW_51040/4417e938978740417c6e4f71bb29b3e22be2d215/">Глава 6.3. Освоение территорий в целях строительства и эксплуатации наемных домов</a></li><ul><li><a href="/document/cons_doc_LAW_51040/08ffcc8bd1acca69cff2ffa9321b6f33a717f8d9/">Статья 55.27. Договор об освоении территории в целях строительства и эксплуатации наемного дома социального использования, договор об освоении территории в целях строительства и эксплуатации наемного дома коммерческого использования</a></li><li><a href="/document/cons_doc_LAW_51040/4f91d7a25b7a674df46554a9e17777f38b8f32e3/">Статья 55.28. Порядок организации и проведения аукционов на право заключения договора об освоении территории в целях строительства и эксплуатации наемного дома коммерческого использования, договора об освоении территории в целях строительства и эксплуатации наемного дома социального использования</a></li><li><a href="/document/cons_doc_LAW_51040/c2c58b9ef199305714a29c6ecfad829a296b6d8a/">Статья 55.29. Требования к участникам аукционов на право заключения договора об освоении территории в целях строительства и эксплуатации наемного дома коммерческого использования, договора об освоении территории в целях строительства и эксплуатации наемного дома социального использования</a></li></ul><li><a href="/document/cons_doc_LAW_51040/c73562f240eb43c2b212244c63f63426f68e14e0/">Глава 6.4. Снос объектов капитального строительства</a></li><ul><li><a href="/document/cons_doc_LAW_51040/10a6891eac8e297d348c2ecab51075f1366db6b3/">Статья 55.30. Общие положения о сносе объектов капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/00bde8c90dadbd124e5d991aea7c4c0eec011ef8/">Статья 55.31. Осуществление сноса объекта капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/7cb66e0f239f00b0e1d59f167cd46beb2182ece1/">Статья 55.32. Особенности сноса самовольных построек или приведения их в соответствие с установленными требованиями</a></li><li><a href="/document/cons_doc_LAW_51040/91c48684d080bf2de86d7042cd605203652e2e31/">Статья 55.33. Особенности сноса объектов капитального строительства, расположенных в зонах с особыми условиями использования территорий, или приведения таких объектов капитального строительства в соответствие с ограничениями использования земельных участков, установленными в границах зон с особыми условиями использования территорий</a></li></ul><li><a href="/document/cons_doc_LAW_51040/fdcf6437bcb1c1a8058061c0a8818d8b98940e78/">Глава 6.5. Отнесение объектов незавершенного строительства, строительство, реконструкция которых осуществляются полностью или частично за счет средств бюджетов бюджетной системы Российской Федерации, к незавершенным объектам капитального строительства</a></li><ul><li><a href="/document/cons_doc_LAW_51040/01882c3ca1e0fe2d369e461e41330f976298c9c5/">Статья 55.34. Основания отнесения объектов незавершенного строительства, строительство, реконструкция которых осуществляются полностью или частично за счет средств бюджетов бюджетной системы Российской Федерации, к незавершенным объектам капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/71524f30bc81b55f6f49d7ed2cd9265b08573803/">Статья 55.35. Реестры незавершенных объектов капитального строительства</a></li></ul><li><a href="/document/cons_doc_LAW_51040/20e5025a52d9519681bee07bc86b8e6870a20196/">Глава 7. Информационное обеспечение градостроительной деятельности</a></li><ul><li><a href="/document/cons_doc_LAW_51040/660089e674fe0863d818a91d52aa4399620dbbb4/">Статья 56. Государственные информационные системы обеспечения градостроительной деятельности субъектов Российской Федерации</a></li><li><a href="/document/cons_doc_LAW_51040/e7f48e417156aa91cf336eea42635e6372809ad2/">Статья 56.1. Единая информационная система</a></li><li><a href="/document/cons_doc_LAW_51040/5ed04cee20f94a22020f03f13bb2c45fb55b504b/">Статья 57. Создание, развитие и эксплуатация государственных информационных систем обеспечения градостроительной деятельности, ведение государственных информационных систем обеспечения градостроительной деятельности и предоставление сведений, документов и материалов государственных информационных систем обеспечения градостроительной деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/383c834f65d9583aa5630bcd4d0c581bdf8568e8/">Статья 57.1. Федеральная государственная информационная система территориального планирования</a></li><li><a href="/document/cons_doc_LAW_51040/83a2296bc85d60b432d44ca0491d71c093e0ffd8/">Статья 57.2. Федеральная государственная информационная система ценообразования в строительстве</a></li><li><a href="/document/cons_doc_LAW_51040/fb76ce1fdb5356574b298a9dcdafcfc8fc6c937b/">Статья 57.3. Градостроительный план земельного участка</a></li><li><a href="/document/cons_doc_LAW_51040/5c861af2ca1e342efce6d076cade2d07f9748a48/">Статья 57.4. Реестр требований</a></li><li><a href="/document/cons_doc_LAW_51040/06616d8bc3e2a55716e03b389946a91b9c4554b6/">Статья 57.5. Информационная модель объекта капитального строительства</a></li><li><a href="/document/cons_doc_LAW_51040/cdee5cd2cc4d20c7691d787ba5b02a69c30c116f/">Статья 57.6. Классификатор строительной информации</a></li></ul><li><a href="/document/cons_doc_LAW_51040/38a8b435e185cb7f1aab423ac045a316a848e24b/">Глава 8. Ответственность за нарушение законодательства о градостроительной деятельности</a></li><ul><li><a href="/document/cons_doc_LAW_51040/111e2721c8c893039bffd21dea335e712c7015e6/">Статья 58. Ответственность за нарушение законодательства о градостроительной деятельности</a></li><li><a href="/document/cons_doc_LAW_51040/1587242d29927d77c6e1f08435d2d18663ffc907/">Статья 59. Возмещение вреда, причиненного жизни или здоровью физических лиц, имуществу физических или юридических лиц при осуществлении территориального планирования, градостроительного зонирования и планировки территории</a></li><li><a href="/document/cons_doc_LAW_51040/5187991b9b9c9dcb1bca94dffffcbc11861f0424/">Статья 60. Возмещение вреда, причиненного вследствие разрушения, повреждения объекта капитального строительства, нарушения требований безопасности при строительстве, сносе объекта капитального строительства, требований к обеспечению безопасной эксплуатации здания, сооружения</a></li><li><a href="/document/cons_doc_LAW_51040/970a9a75a81f0a8f775799a6c308dd11fdc55919/">Статья 60.1. Возмещение ущерба, причиненного вследствие неисполнения или ненадлежащего исполнения членом саморегулируемой организации обязательств по договору подряда на выполнение инженерных изысканий, подготовку проектной документации, договору строительного подряда, договору подряда на осуществление сноса, заключенным с использованием конкурентных способов заключения договора</a></li><li><a href="/document/cons_doc_LAW_51040/9493c0a2b725e492e875d213273033e6c7c87666/">Статья 61. Компенсация вреда, причиненного жизни, здоровью или имуществу физических лиц</a></li><li><a href="/document/cons_doc_LAW_51040/0e7076428366daadbfbd2b0b46180933c7351cb8/">Статья 62. Расследование случаев причинения вреда жизни или здоровью физических лиц, имуществу физических или юридических лиц в результате нарушения законодательства о градостроительной деятельности</a></li></ul><li><a href="/document/cons_doc_LAW_51040/4aa54f057f8f3c815d5c4ba522ebddd85e2b6397/">Глава 9. Особенности осуществления градостроительной деятельности в субъектах Российской Федерации - городах федерального значения Москве, Санкт-Петербурге и Севастополе</a></li><ul><li><a href="/document/cons_doc_LAW_51040/0191aa9c976e314b34da4d2c3a9c70a3d2929912/">Статья 63. Особенности осуществления градостроительной деятельности в субъектах Российской Федерации - городах федерального значения Москве, Санкт-Петербурге и Севастополе</a></li></ul><li><a href="/document/cons_doc_LAW_51040/381915d21931faa78bc4ef1508a48dfe972fc537/">Глава 10. Комплексное развитие территории</a></li><ul><li><a href="/document/cons_doc_LAW_51040/9ae65aac327a4e9861ca82782051a80c09badce2/">Статья 64. Цели комплексного развития территории</a></li><li><a href="/document/cons_doc_LAW_51040/ef7f37a43741b89c0d5fc101a4df835833548c5e/">Статья 65. Виды комплексного развития территории</a></li><li><a href="/document/cons_doc_LAW_51040/4a0bd4ced2768834b9860f3e5fe97a84aed518e9/">Статья 66. Порядок принятия и реализации решения о комплексном развитии территории</a></li><li><a href="/document/cons_doc_LAW_51040/0956dbda06f096d5307b892f34fe835b65ebec51/">Статья 67. Решение о комплексном развитии территории</a></li><li><a href="/document/cons_doc_LAW_51040/b7c37bc66ae87a24a6d573fa52ebbc061d275c9f/">Статья 68. Договор о комплексном развитии территории</a></li><li><a href="/document/cons_doc_LAW_51040/0c12fa4fce6892c0445154e3b101743c54855c7c/">Статья 69. Порядок заключения договора о комплексном развитии территории</a></li><li><a href="/document/cons_doc_LAW_51040/9f02d6f23b8de282cadb5870beb121da58be59ef/">Статья 70. Комплексное развитие территории по инициативе правообладателей</a></li><li><a href="/document/cons_doc_LAW_51040/e563ee961503f5cb52e521c277417ace9ece7c0b/">Статья 71. Порядок реализации решения о комплексном развитии территории оператором комплексного развития территории</a></li></ul></ul>                </div>
+            
+            
+            <div class="full-text document-page_left-padding">
+                <div class="full-text__wrapper">
+                    <button
+                            data-document-link='{&quot;type&quot;:&quot;fullText&quot;,&quot;base&quot;:&quot;LAW&quot;,&quot;num&quot;:529678,&quot;dst&quot;:&quot;100001&quot;,&quot;demo&quot;:2}'
+                            class="full-text__button"
+                    >Открыть полный текст документа</button>
+                </div>
+            </div>
+
+            <div class="external-block__bottom"></div>
+        </div>
+        <div class="external-block__backdrop"></div>
+    </div>
+
+    <div class="document-page__separator">
+        <div class="separator width-container"></div>
+    </div>
+
+    <div class="pages">
+                            <a href="/document/cons_doc_LAW_51040/01fbae25b3040955277cbd70aa1b907cceda878e/" class="pages__right">ГрК РФ, Глава 1. Общие положения</a>
+            </div>
+
+    <div class="external-block__mobile-news"></div>
+
+</section>
+
+
+<div class="document-page__banner-middle bn width-container">
+    <div class="bn width-container news-page__bn">
+    <div id="ban__139"
+        class="bn__inner"
+        data-banner-zone="139"
+        data-banner-flash="0"
+    >
+    </div>
+</div>
+    
+<div id="ban__144"
+     class="banner-popup banner-popup_large"
+     data-banner-zone="144"
+     data-banner-flash="0"
+></div>
+    
+<div id="ban__145"
+     class="banner-popup banner-popup_small"
+     data-banner-zone="145"
+     data-banner-flash="0"
+></div>
+</div>
+
+        <div class="document-page__seo-links width-container page-fields">
+            
+<div id="seoLinks" class="seo-links news-page__seo-links">
+    <ul class="seo-links__list">
+                        <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_5142/">Гражданский кодекс (ГК РФ)</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_51057/">Жилищный кодекс (ЖК РФ)</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_19671/">Налоговый кодекс (НК РФ)</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_34683/">Трудовой кодекс (ТК РФ)</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_10699/">Уголовный кодекс (УК РФ)</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_19702/">Бюджетный кодекс (БК РФ)</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_37800/">Арбитражный процессуальный кодекс</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_28399/">Конституция РФ</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_33773/">Земельный кодекс (ЗК РФ)</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_64299/">Лесной кодекс (ЛК РФ)</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_8982/">Семейный кодекс (СК РФ)</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_12940/">Уголовно-исполнительный кодекс</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_34481/">Уголовно-процессуальный кодекс</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="/law/ref/calendar/proizvodstvennye/2025/">Производственный календарь на 2025 год</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="/law/ref/mrot/2026/">МРОТ 2026</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_39331/">ФЗ «О банкротстве»</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_305/">О защите прав потребителей (ЗОЗПП)</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_71450/">Об исполнительном производстве</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_61801/">О персональных данных</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="http://www.consultant.ru/document/cons_doc_LAW_28165/a26c4b9a881ea8c0abbbfa594a552fc5b15ac93b/">О налогах на имущество физических лиц</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_1511/">О средствах массовой информации</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="/law/ref/calendar/proizvodstvennye/2026/">Производственный календарь на 2026 год</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_110165/">Федеральный закон &quot;О полиции&quot; N 3-ФЗ</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_12508/">Расходы организации ПБУ 10/99</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="/law/ref/mrot/">Минимальный размер оплаты труда (МРОТ)</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_520626/">Календарь бухгалтера на 2026 год</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="/legalnews/20431/">Частичная мобилизация: обзор новостей</a>
+                </li>
+                            <li class="seo-links__item">
+                    <a href="//www.consultant.ru/document/cons_doc_LAW_494318/">Постановление Правительства РФ N 1875</a>
+                </li>
+                        </ul>
+</div>
+        </div>
+    </div>
+
+<footer class="footer page-fields " id="footer">
+    <div class="width-container">
+        <div class="footer__inner">
+            <div class="footer__section footer__contacts">
+                <section class="contacts " id="contacts">
+    <div class="contacts__header footer__header font-caption">Контактная информация</div>
+    <address class="contacts__inner vcard">
+        <div class="contacts__address adr">
+            <div class="contacts__item">
+                <span class="postal-code">117292</span>, <span class="locality">Москва</span>,
+                <span class="street-address">ул.&nbsp;Кржижановского,&nbsp;6</span> (центральный&nbsp;офис)
+            </div>
+            <div class="contacts__item email">
+                <a href="mailto:contact@consultant.ru" class="contacts__mailto">contact@consultant.ru</a>
+            </div>
+        </div>
+        <div class="contacts__phones">
+            <div class="contacts__item tel">+7 (495) 956-82-83</div>
+            <div class="contacts__item tel">+7 (495) 787-92-92</div>
+            <div class="contacts__item email">
+                <a href="mailto:contact@consultant.ru" class="contacts__mailto">contact@consultant.ru</a>
+            </div>
+        </div>
+    </address>
+</section>
+            </div>
+            <div class="footer__section footer__social">
+                <section class="social-links " id="socialLinks">
+    <div class="social-links__header footer__header font-caption">Мы в социальных сетях</div>
+    <div class="social-links__items">
+        <a class="social-links__item social-links__item_vk" href="https://vk.com/consultantplus.comp">
+            <svg class="social-links__icon" viewBox="0 0 20 20">
+                <g fill-rule="evenodd">
+                    <path class="social-links__icon-white" d="M15.623 7.4736c.082-.272 0-.474-.39-.474h-1.29c-.328 0-.478.174-.56.365 0 0-.656 1.598-1.585 2.636-.301.301-.438.397-.602.397-.082 0-.2-.096-.2-.369v-2.555c0-.327-.095-.474-.368-.474H8.602c-.206 0-.329.153-.329.297 0 .311.464.382.512 1.256v1.9c0 .416-.075.492-.238.492-.438 0-1.501-1.606-2.132-3.444-.123-.356-.247-.501-.577-.501H4.549c-.368 0-.443.174-.443.365 0 .341.438 2.036 2.037 4.276 1.065 1.53 2.566 2.359 3.932 2.359.819 0 .921-.184.921-.502v-1.156c0-.368.078-.441.337-.441.191 0 .519.095 1.284.833.875.874 1.019 1.266 1.511 1.266h1.289c.368 0 .553-.184.446-.547-.116-.363-.533-.888-1.087-1.511-.3-.356-.752-.739-.888-.93-.192-.245-.137-.354 0-.573 0 0 1.571-2.213 1.735-2.965"/>
+                    <path d="M10 0C4.478 0 0 4.478 0 10s4.478 10 10 10 10-4.478 10-10S15.522 0 10 0m0 1c4.963 0 9 4.037 9 9s-4.037 9-9 9-9-4.037-9-9 4.037-9 9-9"/>
+                </g>
+            </svg>
+            <span class="social-links__text">ВКонтакте</span>
+        </a>
+        <a class="social-links__item social-links__item_zen" href="https://dzen.ru/consultantplus">
+            <svg class="social-links__icon" viewBox="0 0 20 20">
+                <g fill-rule="evenodd">
+                    <path d="M10 0c5.522 0 10 4.478 10 10s-4.478 10-10 10S0 15.522 0 10 4.478 0 10 0ZM1.00346319 10.1409977l.00038102.1239737C1.14447385 15.1058913 5.125625 19 10 19l-.13955545-.0032117c-.13036704-3.7415042-.34143614-5.5745777-1.78901598-7.0682169C6.57782284 10.481024 4.744798 10.275993 1.00346319 10.1409977Zm10.92510821 1.7875737c-1.4475798 1.4936392-1.6525876 3.3267127-1.7875828 7.0682169C15.0390963 18.9234586 19 14.9160019 19 10l-.0032117.1395555c-3.7415042.130367-5.5745777.3414361-7.0682169 1.7890159ZM9.85900234 1.00346319l-.12397378.00038102C4.89410874 1.14447385 1 5.125625 1 10l.00346319-.13956422c3.74133481-.13036773 5.57435965-.3414598 7.06796538-1.78900721C9.51897598 6.57782284 9.72400699 4.744798 9.85900234 1.00346319Zm2.06956906 7.06796538c1.4936392 1.44757984 3.3267127 1.65258761 7.0682169 1.78758284C18.9232025 4.96065056 14.9158448 1 10 1l.1395642.00346319c.1303678 3.74133481.3414598 5.57435965 1.7890072 7.06796538Z"/>
+                    <path class="social-links__icon-white" d="M10.1395101 1.00190965c.1303634 3.74238095.3413136 5.57570647 1.7890613 7.06951892 1.4938916 1.44782441 3.3273322 1.65265685 7.0701135 1.78765126v.28040957c-3.7427813.1303618-5.5762219.3412576-7.0701135 1.789082-1.4478244 1.4938916-1.6526568 3.3273322-1.7876512 7.0701135h-.28040958c-.13036183-3.7427813-.34125764-5.5762219-1.78908205-7.0701135-1.49381245-1.4477477-3.32713797-1.6526351-7.06951892-1.7876298v-.28045169c3.74238095-.13036345 5.57570647-.34131359 7.06951892-1.78906134C9.51917632 6.57761612 9.72406372 4.7442906 9.85905839 1.00190965Z"/>
+                </g>
+            </svg>
+            <span class="social-links__text">Яндекс.Дзен</span>
+        </a>
+        <a class="social-links__item social-links__item_max" href="https://max.ru/consultant_plus">
+            <svg class="social-links__icon" viewBox="0 0 20 20">
+                <g fill="evenodd">
+                    <path d="M10 0C4.478 0 0 4.478 0 10s4.478 10 10 10 10-4.478 10-10S15.522 0 10 0m0 1c4.963 0 9 4.037 9 9s-4.037 9-9 9-9-4.037-9-9 4.037-9 9-9"/>
+                    <path class="social-links__icon-white" d="M10.131 16.076c-1.2 0-1.757-.175-2.727-.876-.613.788-2.555 1.404-2.64.35 0-.791-.175-1.46-.373-2.19-.237-.9-.505-1.9-.505-3.352 0-3.466 2.844-6.074 6.213-6.074 3.373 0 6.015 2.736 6.015 6.106a6.015 6.015 0 0 1-5.983 6.036Zm.05-9.146c-1.641-.084-2.92 1.052-3.203 2.833-.234 1.474.18 3.27.534 3.364.17.04.596-.304.862-.57.439.304.95.486 1.483.529a3.124 3.124 0 0 0 3.267-2.912 3.124 3.124 0 0 0-2.943-3.24V6.93Z"/>
+                </g>
+            </svg>
+            <span class="social-links__text">Max</span>
+        </a>
+        <a class="social-links__item social-links__item_ok" href="https://ok.ru/group/54395495251971">
+            <svg class="social-links__icon" viewBox="0 0 20 20">
+                <g fill-rule="evenodd">
+                    <g class="social-links__icon-white">
+                        <path d="M10.0186 8.377c-.76 0-1.376-.616-1.376-1.377s.616-1.377 1.376-1.377c.761 0 1.377.616 1.377 1.377s-.616 1.377-1.377 1.377m0-4.377c-1.656 0-2.999 1.343-2.999 3s1.343 3 2.999 3c1.657 0 3-1.343 3-3s-1.343-3-3-3"/>
+                        <path d="M11.1484 12.6934c1.245-.253 2.495-1.149 2.534-1.182.364-.292.423-.824.131-1.188s-.824-.423-1.188-.131c-.008.007-1.308.924-2.617.925-1.309-.001-2.588-.919-2.595-.926-.365-.292-.897-.233-1.189.131-.292.364-.233.896.131 1.188.04.033 1.282.946 2.563 1.193l-1.785 1.864c-.324.336-.314.872.023 1.195.164.159.375.238.587.238.22 0 .442-.087.608-.259l1.657-1.765 1.825 1.777c.33.33.865.329 1.195-.001.33-.33.33-.867-.001-1.197l-1.879-1.862ZM10.0088 11.1172c-.003 0 .002 0 0 0-.003 0 .002 0 0 0"/>
+                    </g>
+                    <path d="M10 0C4.478 0 0 4.478 0 10s4.478 10 10 10 10-4.478 10-10S15.522 0 10 0m0 1c4.963 0 9 4.037 9 9s-4.037 9-9 9-9-4.037-9-9 4.037-9 9-9"/>
+                </g>
+            </svg>
+            <span class="social-links__text">Одноклассники</span>
+        </a>
+        <a class="social-links__item social-links__item_tg" href="https://t.me/consultant_plus">
+            <svg class="social-links__icon" viewBox="0 0 20 20">
+                <g fill-rule="evenodd">
+                    <path class="social-links__icon-white" d="M4.52656837 9.89444137C7.44177145 8.6243337 9.38569678 7.78700098 10.3583443 7.38244322c2.7771064-1.15509463 3.3541653-1.35574692 3.7302842-1.36250745.0827239-.00132236.2676883.01917909.3875004.11639837.101167.08209006.1290021.19298206.1423221.27081244.01332.07783037.0299066.25512998.0167215.39366673-.1504924 1.58123641-.8016704 5.41848019-1.1329529 7.18949199-.140178.7493815-.4161929 1.0006453-.6834072 1.0252348-.5807187.0534387-1.0216901-.3837794-1.5841445-.7524754-.8801302-.5769364-1.37734771-.9360811-2.23166642-1.4990644-.98731307-.6506247-.34727911-1.0082193.21538775-1.592629.14725258-.1529428 2.70591237-2.48024172 2.75543527-2.69136421.0061937-.02640439.0119417-.12482747-.0465297-.17679847-.0584714-.051971-.1447702-.03419893-.2070458-.02006467-.0882738.02003491-1.4942931.94936153-4.21805794 2.78797985-.3990939.2740487-.76058076.4075744-1.08446058.4005771-.35705153-.0077139-1.0438754-.2018823-1.55445836-.3678527-.62625078-.2035695-1.12398243-.3111981-1.08064118-.656922.02257479-.1800744.27055393-.364236.74393743-.55248483Z"/>
+                    <path d="M10 0C4.478 0 0 4.478 0 10s4.478 10 10 10 10-4.478 10-10S15.522 0 10 0m0 1c4.963 0 9 4.037 9 9s-4.037 9-9 9-9-4.037-9-9 4.037-9 9-9"/>
+                </g>
+            </svg>
+            <span class="social-links__text">Telegram</span>
+        </a>
+    </div>
+</section>
+            </div>
+            <div class="footer__section footer__separator">
+                <div class="separator "></div>
+            </div>
+            <div class="footer__section footer__copyright">
+                <section class="copyright " id="copyright">
+    <div class="copyright__report">
+        <div class="copyright__icons">
+            <a class="logo logo_footer " href="/"></a>            <a class="copyright__report-link" href="//www.consultant.ru/sys/pravo/"
+               aria-label="Сообщить о нарушении авторских прав"></a>
+        </div>
+        <a class="copyright__info-link copyright__report-protected-link" href="//www.consultant.ru/sys/copyright/"
+           aria-label="Все права защищены">Все права защищены © 1997-2026 КонсультантПлюс</a>
+    </div>
+    <div class="copyright__info">
+        <a class="copyright__info-link copyright__info-protected-link" href="//www.consultant.ru/sys/copyright/"
+           aria-label="Все права защищены">Все права защищены © 1997-2026 КонсультантПлюс</a>
+        <a class="copyright__info-link" href="//www.consultant.ru/img/mptr.gif"
+           aria-label="Свидетельство МПТР России">Свидетельство МПТР России Эл №77‑6731</a>
+        <a class="copyright__info-link" href="//www.consultant.ru/sys/policy/"
+           aria-label="Политика обработки персональных данных">Политика обработки персональных данных</a>
+        <a class="copyright__info-link" href="//www.consultant.ru/sys/condition/"
+           aria-label="Условия доступа к сайту">Условия доступа к сайту</a>
+    </div>
+</section>
+            </div>
+            <div class="footer__section footer__cookies-text">
+                <div class="cookies-text">
+                    Сайт использует файлы cookies. Условия использования см. в
+                    <a class="cookies-text__link" href="/cookies/policy/">Политике использования сookies</a>.
+                </div>
+                <a class="logo logo_footer " href="/"></a>            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="/static/document/dist/common-6ddc6451cf2b16b3227b2eac37b07729.js"></script>
+<script src="/static/document/dist/document-509cec8db22a11619e0a37266805e87d.js"></script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {w.yaCounter21509128 = new Ya.Metrika({"id":21509128,"clickmap":true,"trackLinks":true,"accurateTrackBounce":true,"webvisor":true});
+            } catch(e) {};
+        });
+        
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div>
+<img src="https://mc.yandex.ru/watch/21509128" style="position:absolute; left:-9999px;" alt="" />
+</div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "186662", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=186662;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet-->
+<!-- Внутренняя статистика --><script type="text/javascript">
+(function() {
+    var path = '';
+    var d = new Date();
+    var n = navigator.appName.toLowerCase();
+    var flash = 0;
+    path += 'c=' + (navigator.cookieEnabled ? 1 : 0) + '&';
+    if (navigator.plugins && navigator.plugins.length)
+    {
+        for (var i = navigator.plugins.length - 1; i >= 0; i--)
+            if (navigator.plugins[i].name == 'Shockwave Flash')
+            {
+                flash = parseFloat(navigator.plugins[i].description.split(' ')[2]);
+                break;
+            }
+    }
+    else if (window.ActiveXObject)
+    {           
+        var f = null;
+        for (var i = 20; i > 3; --i)
+            try
+            {
+                f = new ActiveXObject('ShockwaveFlash.ShockwaveFlash.' + i);
+            }
+            catch (e)
+            {
+                f = null;
+            }
+            if (f)
+            {
+                var t = f.GetVariable('$' + 'version').split(' ');
+                if (t.length > 1)
+                {
+                        var s = t[1].split(',');
+                        flash = parseInt(s[0]);
+                }
+                f = null;
+            }
+    }
+    path += 't=' + d.getTime() + '&';
+
+    var url = window.location.href;
+    var hash = window.location.hash;
+
+    if (hash && hash.indexOf('utm_') == -1)
+        url = url.replace(/#.*$/, '');
+
+    path += 'u=' + escape(url) + '&';
+    if (window == parent)
+        path += 'r=' + escape(document.referrer) + '&';
+    else
+        path += 'r=' + escape(parent.document.referrer) + '&';
+        
+    path += 'cd=' + (n == 'netscape' ? screen.pixelDepth : screen.colorDepth) + '&';
+    
+    var width = screen.width || 0;
+    var height = screen.height || 0;
+    path += 'w=' + width + '&';
+    path += 'h=' + height + '&';
+    path += 'j=' + (navigator.javaEnabled()? 1 : 0) + '&';
+    path += 'fl=' + flash;
+
+    var consStatCounterImg = new Image();
+    consStatCounterImg.src = '//www.consultant.ru/adds/counter.js?' + path;
+})();
+</script>
+<!-- /Внутренняя статистика -->
+
+</body>
+</html>

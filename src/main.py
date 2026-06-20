@@ -1,102 +1,138 @@
 import os
+import sys
+import argparse
 from pathlib import Path
 from dotenv import load_dotenv
-from crewai import Crew, Process, LLM  # ✅ Импортируем LLM из CrewAI
+from crewai import Crew, Process, LLM
 from agents import DueDiligenceCrewAgents
 from tasks import DueDiligenceCrewTasks
 from datetime import datetime
-
 
 load_dotenv()
 
 def run_due_diligence_council(document_path: str):
     """Запускает иерархический консилиум по одному документу"""
-    
-    print(f"--- [OpenRouter] Менеджер распределяет задачи для: {document_path} ---")
-    
-    # 1. Инициализация LLM через OpenRouter (Бесплатная Llama 3.3 70B)
+    print(f"\n{'='*60}")
+    print(f"🚀 ЗАПУСК КОНСИЛИУМА ДЛЯ: {document_path}")
+    print(f"{'='*60}\n")
+
+    # 1. Инициализация LLM через OpenRouter
     llm = LLM(
         model="openrouter/openai/gpt-oss-120b:free", 
         base_url="https://openrouter.ai/api/v1",
         api_key=os.getenv("OPENROUTER_API_KEY"),
         temperature=0.2,
-        max_tokens=2000
+        max_tokens=4000 # Увеличили лимит для больших отчетов
     )
-    
-    # Создание агентов с ОТКЛЮЧЕННОЙ памятью
+
+    # Создание агентов
     agents_factory = DueDiligenceCrewAgents()
-    
     auditor = agents_factory.safety_auditor_agent()
-    auditor.llm = llm  # ✅ Передаем объект LLM
+    auditor.llm = llm
     auditor.memory = False
     auditor.allow_delegation = True
-    
+
     engineer = agents_factory.process_engineer_agent()
     engineer.llm = llm
     engineer.memory = False
     engineer.allow_delegation = True
-    
+
     investor = agents_factory.investment_analyst_agent()
     investor.llm = llm
     investor.memory = False
     investor.allow_delegation = False
-    
+
     # Создание задач
     tasks_factory = DueDiligenceCrewTasks()
-    
     safety_task = tasks_factory.safety_audit_task(auditor, document_path)
     process_task = tasks_factory.process_validation_task(engineer, document_path)
     final_task = tasks_factory.financial_translation_task(
         investor, 
         [safety_task, process_task]
     )
-    
+
     # Формирование команды
     crew = Crew(
         agents=[auditor, engineer, investor],
         tasks=[safety_task, process_task, final_task],
         process=Process.hierarchical,
-        manager_llm=llm,  # ✅ Передаем объект LLM (не строку!)
+        manager_llm=llm,
         verbose=True,
         memory=False
     )
-    
+
     # Запуск
     result = crew.kickoff()
     return result
 
+def save_report(doc_name: str, report_content: str):
+    """Сохраняет отчет в папку data/02_processed/"""
+    output_dir = Path("data/02_processed")
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    # Формируем имя файла: DD_Report_ИмяДокумента_Дата.md
+    safe_doc_name = Path(doc_name).stem.replace(" ", "_")
+    report_path = output_dir / f"DD_Report_{safe_doc_name}_{timestamp}.md"
+
+    with open(report_path, "w", encoding="utf-8") as f:
+        f.write(report_content)
+        
+    print(f"\n✅ Отчет сохранен: {report_path}")
+
+def main():
+    parser = argparse.ArgumentParser(description="Запуск Due Diligence консилиума")
+    parser.add_argument(
+        "--file", 
+        type=str, 
+        help="Путь к конкретному PDF-файлу для анализа",
+        default=None
+    )
+    parser.add_argument(
+        "--batch", 
+        action="store_true", 
+        help="Запустить анализ всех PDF-файлов в папке data/01_raw/TEO/"
+    )
+
+    args = parser.parse_args()
+
+    # Режим 1: Анализ конкретного файла
+    if args.file:
+        doc_path = Path(args.file)
+        if not doc_path.exists():
+            print(f"❌ Файл не найден: {doc_path}")
+            return
+        report = run_due_diligence_council(str(doc_path))
+        save_report(doc_path.name, report.raw)
+
+    # Режим 2: Пакетный анализ всех файлов в папке
+    elif args.batch:
+        batch_dir = Path("data/01_raw/TEO")
+        if not batch_dir.exists():
+            print(f"❌ Папка не найдена: {batch_dir}")
+            print("Создаю папку...")
+            batch_dir.mkdir(parents=True)
+            return
+
+        pdf_files = list(batch_dir.glob("*.pdf"))
+        if not pdf_files:
+            print(f"⚠️ В папке {batch_dir} нет PDF-файлов.")
+            return
+
+        print(f"📂 Найдено {len(pdf_files)} файлов для анализа.")
+        
+        for pdf_file in pdf_files:
+            try:
+                report = run_due_diligence_council(str(pdf_file))
+                save_report(pdf_file.name, report.raw)
+            except Exception as e:
+                print(f"\n❌ Ошибка при анализе {pdf_file.name}: {e}")
+
+    # Режим 3: По умолчанию (если аргументы не переданы)
+    else:
+        print("⚠️ Аргументы не указаны. Используйте --file <путь> или --batch")
+        print("Пример: python src/main.py --file data/01_raw/ТЭО/TEO_SES.pdf")
+        print("Пример: python src/main.py --batch")
+
 if __name__ == "__main__":
-    print("=== Запуск Иерархического Консилиума на OpenRouter ===")
-    doc = "data/01_raw/TEO_project_example.pdf"
-
-    if not Path(doc).exists():
-        print(f"❌ Файл не найден: {doc}")
-        print("Создаю пустой файл для теста...")
-        Path(doc).touch()
-        print(f"✅ Создан: {doc}")
-
-    try:
-        # 1. Запускаем консилиум (получаем объект CrewOutput)
-        crew_output = run_due_diligence_council(doc)
-        
-        # 2. ✅ ИЗВЛЕКАЕМ ТЕКСТ ИЗ ОБЪЕКТА CrewOutput
-        final_report = crew_output.raw 
-        
-        print("\n" + "="*60)
-        print("🏆 ИТОГОВОЕ ЗАКЛЮЧЕНИЕ КОНСИЛИУМА:")
-        print("="*60)
-        print(final_report)
-
-        # 3. ✅ СОХРАНЕНИЕ ОТЧЕТА В MARKDOWN
-        output_dir = Path("data/02_processed")
-        output_dir.mkdir(parents=True, exist_ok=True)
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        report_path = output_dir / f"DD_Report_{timestamp}.md"
-
-        with open(report_path, "w", encoding="utf-8") as f:
-            f.write(final_report)
-            
-        print(f"\n✅ Отчет успешно сохранен: {report_path}")
-
-    except Exception as e:
-        print(f"\n❌ Ошибка выполнения: {e}")
+    main()
