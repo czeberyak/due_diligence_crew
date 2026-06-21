@@ -2,11 +2,12 @@ import os
 import sys
 import argparse
 from pathlib import Path
+from datetime import datetime
 from dotenv import load_dotenv
 from crewai import Crew, Process, LLM
 from agents import DueDiligenceCrewAgents
 from tasks import DueDiligenceCrewTasks
-from datetime import datetime
+from export_report import export_report  # ← НОВЫЙ ИМПОРТ
 
 load_dotenv()
 
@@ -22,7 +23,7 @@ def run_due_diligence_council(document_path: str):
         base_url="https://openrouter.ai/api/v1",
         api_key=os.getenv("OPENROUTER_API_KEY"),
         temperature=0.2,
-        max_tokens=4000 # Увеличили лимит для больших отчетов
+        max_tokens=4000
     )
 
     # Создание агентов
@@ -66,19 +67,25 @@ def run_due_diligence_council(document_path: str):
     return result
 
 def save_report(doc_name: str, report_content: str):
-    """Сохраняет отчет в папку data/02_processed/"""
+    """Сохраняет отчет в Markdown, PDF и DOCX"""
     output_dir = Path("data/02_processed")
     output_dir.mkdir(parents=True, exist_ok=True)
     
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    # Формируем имя файла: DD_Report_ИмяДокумента_Дата.md
     safe_doc_name = Path(doc_name).stem.replace(" ", "_")
-    report_path = output_dir / f"DD_Report_{safe_doc_name}_{timestamp}.md"
-
-    with open(report_path, "w", encoding="utf-8") as f:
-        f.write(report_content)
-        
-    print(f"\n✅ Отчет сохранен: {report_path}")
+    base_path = output_dir / f"DD_Report_{safe_doc_name}_{timestamp}"
+    
+    # Экспорт во все форматы
+    print(f"\n📄 Сохранение отчёта в форматах: Markdown, PDF, DOCX...")
+    results = export_report(report_content, str(base_path), formats=['md', 'pdf', 'docx'])
+    
+    for fmt, path in results.items():
+        if path:
+            print(f"  ✅ {fmt.upper()}: {path}")
+        else:
+            print(f"  ⚠️ {fmt.upper()}: ошибка экспорта")
+    
+    return results
 
 def main():
     parser = argparse.ArgumentParser(description="Запуск Due Diligence консилиума")
@@ -130,8 +137,8 @@ def main():
 
     # Режим 3: По умолчанию (если аргументы не переданы)
     else:
-        print("⚠️ Аргументы не указаны. Используйте --file <путь> или --batch")
-        print("Пример: python src/main.py --file data/01_raw/ТЭО/TEO_SES.pdf")
+        print("️ Аргументы не указаны. Используйте --file <путь> или --batch")
+        print("Пример: python src/main.py --file data/01_raw/TEO/TEO_SES.pdf")
         print("Пример: python src/main.py --batch")
 
 if __name__ == "__main__":
